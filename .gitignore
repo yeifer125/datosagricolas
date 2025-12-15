@@ -4,7 +4,7 @@ venv/
 __pycache__/
 
 # Datos
-data/
+# data/
 output/
 build/
 dist/
