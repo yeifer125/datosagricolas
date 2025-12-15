@@ -26,9 +26,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+<<<<<<< HEAD
       - name: Ejecutar script
         run: |
           python pipe2.py
+=======
+    - name: Ejecutar script
+      run: |
+        python pipe2.py
+>>>>>>> db28d0d6686e0d2c70679e2211fa193033ccf6f9
 
       - name: Commit cambios
         run: |
