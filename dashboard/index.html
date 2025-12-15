@@ -1,26 +1,216 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <title>Precios Agrícolas CR</title>
-  <link rel="stylesheet" href="style.css" />
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<meta charset="UTF-8">
+<link rel="icon" href="https://i.postimg.cc/KcNyWSR4/orinoco.jpg" type="image/png">
+<title>Precios Agrícolas</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  padding: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+/* COLUMNA IZQUIERDA */
+.left {
+  width: 35%;
+}
+
+/* COLUMNA DERECHA */
+.right {
+  width: 65%;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.label {
+  color: #555;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.value {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+select {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.alerta {
+  background: #fff3cd;
+  border-left: 5px solid #ffc107;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+
+.profile {
+  background: #2c3e50;
+  color: white;
+}
+
+.profile h2 {
+  margin: 0 0 10px 0;
+}
+</style>
 </head>
+
 <body>
 
-<h1>📊 Precios Agrícolas – Costa Rica</h1>
+<h1>🌾 Dashboard de Precios Agrícolas</h1>
 
-<select id="productoSelect"></select>
+<div class="container">
 
-<div class="cards">
-  <div class="card" id="precioActual"></div>
-  <div class="card" id="tendencia"></div>
-  <div class="card" id="prediccion"></div>
-  <div class="card alerta" id="alerta"></div>
+  <!-- COLUMNA IZQUIERDA -->
+  <div class="left">
+
+    <!-- TARJETA PERFIL -->
+    <div class="card profile">
+      <h2>👤 Autor</h2>
+      <div><b>Nombre:</b> Yeifer ｃＡｒｂｏｎＡｔｏ</div>
+      <div><b>Proyecto:</b> Datos Agrícolas</div>
+      <div><b>Actualización:</b> Automática diaria</div>
+      <div><b>Fuente:</b> CENADA-Pyma / Historial propio</div>
+    </div>
+
+    <!-- SELECTOR -->
+    <div class="card">
+      <div class="label">Seleccionar producto</div>
+      <select id="productoSelect"></select>
+    </div>
+
+    <!-- INFO PRODUCTO -->
+    <div id="infoProducto"></div>
+
+  </div>
+
+  <!-- COLUMNA DERECHA -->
+  <div class="right">
+
+    <!-- GRAFICA -->
+    <div class="card">
+      <canvas id="graficaPrecios"></canvas>
+    </div>
+
+  </div>
+
 </div>
 
-<canvas id="grafico"></canvas>
+<script>
+let SERIES = {};
+let TENDENCIAS = {};
+let PREDICCIONES = {};
+let ALERTAS = {};
+let chart = null;
 
-<script src="app.js"></script>
+async function cargarDatos() {
+  SERIES = await fetch("/series").then(r => r.json());
+  TENDENCIAS = await fetch("/tendencias").then(r => r.json());
+  PREDICCIONES = await fetch("/predicciones").then(r => r.json());
+  ALERTAS = await fetch("/alertas").then(r => r.json());
+
+  const select = document.getElementById("productoSelect");
+  select.innerHTML = "";
+
+  Object.keys(SERIES).forEach(p => {
+    const opt = document.createElement("option");
+    opt.value = p;
+    opt.textContent = p;
+    select.appendChild(opt);
+  });
+
+  if (select.options.length > 0) {
+    mostrarProducto(select.value);
+  }
+
+  select.onchange = () => mostrarProducto(select.value);
+}
+
+function mostrarProducto(producto) {
+  const datos = SERIES[producto];
+  const tendencia = TENDENCIAS[producto]?.tendencia ?? "N/D";
+  const pred = PREDICCIONES[producto]?.prediccion_proxima ?? "N/D";
+  const alerta = ALERTAS[producto] ?? null;
+
+  let html = `
+    <div class="card">
+      <div class="label">Producto</div>
+      <div class="value">${producto}</div>
+
+      <div class="label">Tendencia</div>
+      <div class="value">${tendencia}</div>
+
+      <div class="label">Predicción próxima</div>
+      <div class="value">${pred}</div>
+  `;
+
+  if (alerta) {
+    html += `<div class="alerta">🚨 ${alerta}</div>`;
+  }
+
+  html += `</div>`;
+
+  document.getElementById("infoProducto").innerHTML = html;
+
+  actualizarGrafica(datos, producto);
+}
+
+function actualizarGrafica(datos, producto) {
+  const labels = datos.map(d => d.fecha);
+  const values = datos.map(d => d.promedio);
+
+  const ctx = document.getElementById("graficaPrecios");
+
+  if (chart) {
+    chart.destroy();
+  }
+
+  chart = new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: labels,
+      datasets: [{
+        label: producto,
+        data: values,
+        borderWidth: 2,
+        tension: 0.3
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          display: true
+        }
+      }
+    }
+  });
+}
+
+cargarDatos();
+</script>
+
 </body>
 </html>

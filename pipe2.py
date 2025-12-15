@@ -2,11 +2,17 @@ import json
 import requests
 from datetime import datetime
 from collections import defaultdict
+import os
 
 # =========================
 # CONFIG
 # =========================
 URL_HISTORIAL = "https://raw.githubusercontent.com/yeifer125/iadatos/main/historial.json"
+OUTPUT_DIR = "data"
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+FECHA_HOY = datetime.utcnow().strftime("%Y-%m-%d")
 
 # =========================
 # UTILIDADES
@@ -14,8 +20,9 @@ URL_HISTORIAL = "https://raw.githubusercontent.com/yeifer125/iadatos/main/histor
 def convertir_fecha(fecha):
     try:
         return datetime.strptime(fecha, "%d/%m/%Y").strftime("%Y-%m-%d")
-    except:
+    except Exception:
         return None
+
 
 def limpiar_numero(valor):
     if valor is None:
@@ -33,14 +40,16 @@ def limpiar_numero(valor):
 
     try:
         return float(valor)
-    except:
+    except Exception:
         return None
+
 
 # =========================
 # 1️⃣ DESCARGAR HISTORIAL
 # =========================
-print("⬇️ Descargando historial.json desde GitHub...")
-resp = requests.get(URL_HISTORIAL)
+print("⬇️ Descargando historial.json...")
+resp = requests.get(URL_HISTORIAL, timeout=30)
+resp.raise_for_status()
 data = resp.json()
 
 # =========================
@@ -62,7 +71,7 @@ for d in data:
         "precio": moda
     })
 
-with open("historial_limpio.json", "w", encoding="utf-8") as f:
+with open(f"{OUTPUT_DIR}/historial_limpio_{FECHA_HOY}.json", "w", encoding="utf-8") as f:
     json.dump(historial_limpio, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -73,14 +82,13 @@ series = defaultdict(list)
 for d in historial_limpio:
     series[d["producto"]].append({
         "fecha": d["fecha"],
-        "promedio": d["precio"]  # el dashboard espera "promedio"
+        "promedio": d["precio"]
     })
 
-# ordenar por fecha
 for producto in series:
     series[producto].sort(key=lambda x: x["fecha"])
 
-with open("series_productos.json", "w", encoding="utf-8") as f:
+with open(f"{OUTPUT_DIR}/series_productos_{FECHA_HOY}.json", "w", encoding="utf-8") as f:
     json.dump(series, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -105,7 +113,7 @@ for producto, datos in series.items():
 
     tendencias[producto] = {"tendencia": t}
 
-with open("tendencias.json", "w", encoding="utf-8") as f:
+with open(f"{OUTPUT_DIR}/tendencias_{FECHA_HOY}.json", "w", encoding="utf-8") as f:
     json.dump(tendencias, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -117,16 +125,18 @@ for producto, datos in series.items():
     if len(datos) < 3:
         continue
 
-    diffs = []
-    for i in range(1, len(datos)):
-        diffs.append(datos[i]["promedio"] - datos[i-1]["promedio"])
+    diffs = [
+        datos[i]["promedio"] - datos[i - 1]["promedio"]
+        for i in range(1, len(datos))
+    ]
 
     promedio_cambio = sum(diffs) / len(diffs)
+
     predicciones[producto] = {
         "prediccion_proxima": round(datos[-1]["promedio"] + promedio_cambio, 2)
     }
 
-with open("predicciones.json", "w", encoding="utf-8") as f:
+with open(f"{OUTPUT_DIR}/predicciones_{FECHA_HOY}.json", "w", encoding="utf-8") as f:
     json.dump(predicciones, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -149,7 +159,7 @@ for producto, datos in series.items():
     elif actual == min_p:
         alertas[producto] = "📉 Precio en mínimo histórico"
 
-with open("alertas.json", "w", encoding="utf-8") as f:
+with open(f"{OUTPUT_DIR}/alertas_{FECHA_HOY}.json", "w", encoding="utf-8") as f:
     json.dump(alertas, f, ensure_ascii=False, indent=2)
 
-print("✅ Pipeline completo generado correctamente")
+print("✅ Pipeline ejecutado correctamente")
