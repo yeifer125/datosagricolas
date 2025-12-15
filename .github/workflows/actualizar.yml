@@ -24,7 +24,7 @@ jobs:
 
     - name: Ejecutar script
       run: |
-        python script_unico.py
+        python pipe2.py
 
     - name: Commit cambios
       run: |
