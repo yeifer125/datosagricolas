@@ -1,0 +1,20 @@
+# Entornos
+venv/
+.env
+__pycache__/
+
+# Datos
+data/
+output/
+build/
+dist/
+
+# Ejecutables
+*.exe
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log

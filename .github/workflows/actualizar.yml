@@ -1,0 +1,35 @@
+name: Actualizar datos agrícolas
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # diario 6am UTC
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        pip install fastapi uvicorn
+
+    - name: Ejecutar script
+      run: |
+        python script_unico.py
+
+    - name: Commit cambios
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "📊 Actualización automática de datos" || echo "Sin cambios"
+        git push

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Precios Agrícolas CR</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h1>📊 Precios Agrícolas – Costa Rica</h1>
+
+<select id="productoSelect"></select>
+
+<div class="cards">
+  <div class="card" id="precioActual"></div>
+  <div class="card" id="tendencia"></div>
+  <div class="card" id="prediccion"></div>
+  <div class="card alerta" id="alerta"></div>
+</div>
+
+<canvas id="grafico"></canvas>
+
+<script src="app.js"></script>
+</body>
+</html>
