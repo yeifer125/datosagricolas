@@ -1,16 +1,22 @@
 import json
 import requests
+import subprocess
 from datetime import datetime
 from collections import defaultdict
+import os
 
 # =========================
 # CONFIG
 # =========================
 URL_HISTORIAL = "https://raw.githubusercontent.com/yeifer125/iadatos/main/historial.json"
+DATA_DIR = "data"
+
+os.makedirs(DATA_DIR, exist_ok=True)
 
 # =========================
 # UTILIDADES
 # =========================
+
 def convertir_fecha(fecha):
     try:
         return datetime.strptime(fecha, "%d/%m/%Y").strftime("%Y-%m-%d")
@@ -62,8 +68,9 @@ def regresion_lineal(precios):
 # =========================
 # 1️⃣ DESCARGAR HISTORIAL
 # =========================
-print("⬇️ Descargando historial.json desde GitHub...")
+print("⬇️ Descargando historial.json...")
 resp = requests.get(URL_HISTORIAL)
+resp.raise_for_status()
 data = resp.json()
 
 # =========================
@@ -85,7 +92,7 @@ for d in data:
         "precio": moda
     })
 
-with open("historial_limpio.json", "w", encoding="utf-8") as f:
+with open(f"{DATA_DIR}/historial_limpio.json", "w", encoding="utf-8") as f:
     json.dump(historial_limpio, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -102,7 +109,7 @@ for d in historial_limpio:
 for producto in series:
     series[producto].sort(key=lambda x: x["fecha"])
 
-with open("series_productos.json", "w", encoding="utf-8") as f:
+with open(f"{DATA_DIR}/series_productos.json", "w", encoding="utf-8") as f:
     json.dump(series, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -127,11 +134,11 @@ for producto, datos in series.items():
 
     tendencias[producto] = {"tendencia": t}
 
-with open("tendencias.json", "w", encoding="utf-8") as f:
+with open(f"{DATA_DIR}/tendencias.json", "w", encoding="utf-8") as f:
     json.dump(tendencias, f, ensure_ascii=False, indent=2)
 
 # =========================
-# 5️⃣ PREDICCIONES (REGRESIÓN)
+# 5️⃣ PREDICCIONES
 # =========================
 predicciones = {}
 
@@ -146,7 +153,7 @@ for producto, datos in series.items():
         "prediccion_proxima": round(pred, 2)
     }
 
-with open("predicciones.json", "w", encoding="utf-8") as f:
+with open(f"{DATA_DIR}/predicciones.json", "w", encoding="utf-8") as f:
     json.dump(predicciones, f, ensure_ascii=False, indent=2)
 
 # =========================
@@ -166,7 +173,13 @@ for producto, datos in series.items():
     elif actual == min(precios):
         alertas[producto] = "📉 Precio en mínimo histórico"
 
-with open("alertas.json", "w", encoding="utf-8") as f:
+with open(f"{DATA_DIR}/alertas.json", "w", encoding="utf-8") as f:
     json.dump(alertas, f, ensure_ascii=False, indent=2)
 
-print("✅ Pipeline completo con regresión lineal generado correctamente")
+# =========================
+# 7️⃣ CONSOLIDAR HISTÓRICOS
+# =========================
+print("🧩 Consolidando históricos...")
+subprocess.run(["python", "consolidar_json.py"], check=True)
+
+print("✅ Pipeline completo generado correctamente")
