@@ -69,16 +69,16 @@
     "tendencia": "sube"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Coco": {
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Culantro castilla Rollo de 10": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Elote": {
     "tendencia": "sube"
@@ -90,7 +90,7 @@
     "tendencia": "sube"
   },
   "Fresa (400 g) Bandeja (400": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
     "tendencia": "estable"
@@ -135,22 +135,22 @@
     "tendencia": "baja"
   },
   "Melón Cantaloupe": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mora congelada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Mora fresca": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Nance": {
     "tendencia": "estable"
   },
   "Naranja dulce": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Naranjilla": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Ñampí": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "sube"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "sube"
@@ -204,10 +204,10 @@
     "tendencia": "sube"
   },
   "Repollo morado": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Sandía de campo - grande": {
     "tendencia": "estable"
@@ -321,6 +321,21 @@
     "tendencia": "estable"
   },
   "Manga pequeña Irwin Caja plástica (17": {
+    "tendencia": "insuficiente"
+  },
+  "Aguacate Hass de Costa Rica - Super Extra": {
+    "tendencia": "insuficiente"
+  },
+  "Aguacate Hass de Costa Rica - Supremo": {
+    "tendencia": "insuficiente"
+  },
+  "Banano rechazo de exportación (verde y maduro)": {
+    "tendencia": "insuficiente"
+  },
+  "Plátano primera (verde y maduro)": {
+    "tendencia": "insuficiente"
+  },
+  "Plátano segunda (verde y maduro)": {
     "tendencia": "insuficiente"
   }
 }

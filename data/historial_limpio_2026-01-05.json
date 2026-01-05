@@ -30493,5 +30493,350 @@
     "producto": "Zuquini",
     "fecha": "2025-12-31",
     "precio": 300.0
+  },
+  {
+    "producto": "Aguacate Hass de Costa Rica - Super Extra",
+    "fecha": "2026-01-05",
+    "precio": 1700.0
+  },
+  {
+    "producto": "Aguacate Hass de Costa Rica - Supremo",
+    "fecha": "2026-01-05",
+    "precio": 1800.0
+  },
+  {
+    "producto": "Apio verde (mata)",
+    "fecha": "2026-01-05",
+    "precio": 1500.0
+  },
+  {
+    "producto": "Ayote sazón",
+    "fecha": "2026-01-05",
+    "precio": 350.0
+  },
+  {
+    "producto": "Ayote sazón mantequilla",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Ayote tierno",
+    "fecha": "2026-01-05",
+    "precio": 400.0
+  },
+  {
+    "producto": "Banano maduro criollo",
+    "fecha": "2026-01-05",
+    "precio": 30.0
+  },
+  {
+    "producto": "Banano rechazo de exportación (verde y maduro)",
+    "fecha": "2026-01-05",
+    "precio": 3000.0
+  },
+  {
+    "producto": "Brócoli",
+    "fecha": "2026-01-05",
+    "precio": 1000.0
+  },
+  {
+    "producto": "Camote",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Camote Zanahoria",
+    "fecha": "2026-01-05",
+    "precio": 1500.0
+  },
+  {
+    "producto": "Carambola",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Cebolla seca amarilla burra",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Cebolla seca amarilla suelta",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Cebolla seca amarilla trenza",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Cebolla seca morada",
+    "fecha": "2026-01-05",
+    "precio": 2000.0
+  },
+  {
+    "producto": "Cebollino",
+    "fecha": "2026-01-05",
+    "precio": 250.0
+  },
+  {
+    "producto": "Chayote tierno criollo",
+    "fecha": "2026-01-05",
+    "precio": 10000.0
+  },
+  {
+    "producto": "Chayote tierno quelite",
+    "fecha": "2026-01-05",
+    "precio": 8000.0
+  },
+  {
+    "producto": "Chile dulce jumbo Caja",
+    "fecha": "2026-01-05",
+    "precio": 32000.0
+  },
+  {
+    "producto": "Chile dulce primera Caja",
+    "fecha": "2026-01-05",
+    "precio": 30000.0
+  },
+  {
+    "producto": "Chile dulce segunda Caja",
+    "fecha": "2026-01-05",
+    "precio": 28000.0
+  },
+  {
+    "producto": "Chile dulce tercera Caja",
+    "fecha": "2026-01-05",
+    "precio": 14000.0
+  },
+  {
+    "producto": "Coco",
+    "fecha": "2026-01-05",
+    "precio": 500.0
+  },
+  {
+    "producto": "Coliflor",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Culantro castilla Rollo de 10",
+    "fecha": "2026-01-05",
+    "precio": 1000.0
+  },
+  {
+    "producto": "Elote",
+    "fecha": "2026-01-05",
+    "precio": 150.0
+  },
+  {
+    "producto": "Espinaca",
+    "fecha": "2026-01-05",
+    "precio": 250.0
+  },
+  {
+    "producto": "Fresa (1 Kg) Bandeja (1",
+    "fecha": "2026-01-05",
+    "precio": 2600.0
+  },
+  {
+    "producto": "Fresa (400 g) Bandeja (400",
+    "fecha": "2026-01-05",
+    "precio": 1300.0
+  },
+  {
+    "producto": "Guanábana injertada",
+    "fecha": "2026-01-05",
+    "precio": 1500.0
+  },
+  {
+    "producto": "Guayaba China/Taiwanesa",
+    "fecha": "2026-01-05",
+    "precio": 1000.0
+  },
+  {
+    "producto": "Jengibre sazón",
+    "fecha": "2026-01-05",
+    "precio": 1000.0
+  },
+  {
+    "producto": "Lechuga Americana",
+    "fecha": "2026-01-05",
+    "precio": 250.0
+  },
+  {
+    "producto": "Limón mandarina",
+    "fecha": "2026-01-05",
+    "precio": 100.0
+  },
+  {
+    "producto": "Limón mesino",
+    "fecha": "2026-01-05",
+    "precio": 120.0
+  },
+  {
+    "producto": "Mandarina primera",
+    "fecha": "2026-01-05",
+    "precio": 200.0
+  },
+  {
+    "producto": "Mandarina segunda",
+    "fecha": "2026-01-05",
+    "precio": 150.0
+  },
+  {
+    "producto": "Maracuyá",
+    "fecha": "2026-01-05",
+    "precio": 1000.0
+  },
+  {
+    "producto": "Melón Cantaloupe",
+    "fecha": "2026-01-05",
+    "precio": 600.0
+  },
+  {
+    "producto": "Mora congelada",
+    "fecha": "2026-01-05",
+    "precio": 2000.0
+  },
+  {
+    "producto": "Mora fresca",
+    "fecha": "2026-01-05",
+    "precio": 2000.0
+  },
+  {
+    "producto": "Naranja dulce",
+    "fecha": "2026-01-05",
+    "precio": 120.0
+  },
+  {
+    "producto": "Naranjilla",
+    "fecha": "2026-01-05",
+    "precio": 1500.0
+  },
+  {
+    "producto": "Ñampí",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Papa amarilla primera Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 45000.0
+  },
+  {
+    "producto": "Papa blanca primera Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 47000.0
+  },
+  {
+    "producto": "Papa polilla Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 7000.0
+  },
+  {
+    "producto": "Papa semilla Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 20000.0
+  },
+  {
+    "producto": "Papa semillón Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 20000.0
+  },
+  {
+    "producto": "Papaya híbrida",
+    "fecha": "2026-01-05",
+    "precio": 400.0
+  },
+  {
+    "producto": "Pepino",
+    "fecha": "2026-01-05",
+    "precio": 300.0
+  },
+  {
+    "producto": "Pipa pelada",
+    "fecha": "2026-01-05",
+    "precio": 300.0
+  },
+  {
+    "producto": "Plátano primera (verde y maduro)",
+    "fecha": "2026-01-05",
+    "precio": 240.0
+  },
+  {
+    "producto": "Plátano segunda (verde y maduro)",
+    "fecha": "2026-01-05",
+    "precio": 200.0
+  },
+  {
+    "producto": "Remolacha",
+    "fecha": "2026-01-05",
+    "precio": 300.0
+  },
+  {
+    "producto": "Repollo morado",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Repollo verde",
+    "fecha": "2026-01-05",
+    "precio": 450.0
+  },
+  {
+    "producto": "Sandía de campo - grande",
+    "fecha": "2026-01-05",
+    "precio": 500.0
+  },
+  {
+    "producto": "Sandía de campo - mediana",
+    "fecha": "2026-01-05",
+    "precio": 400.0
+  },
+  {
+    "producto": "Tamarindo",
+    "fecha": "2026-01-05",
+    "precio": 2000.0
+  },
+  {
+    "producto": "Tiquisque",
+    "fecha": "2026-01-05",
+    "precio": 1400.0
+  },
+  {
+    "producto": "Tomate primera Caja plástica (18",
+    "fecha": "2026-01-05",
+    "precio": 8000.0
+  },
+  {
+    "producto": "Tomate segunda Caja plástica (18",
+    "fecha": "2026-01-05",
+    "precio": 7000.0
+  },
+  {
+    "producto": "Tomate tercera Caja plástica (18",
+    "fecha": "2026-01-05",
+    "precio": 4000.0
+  },
+  {
+    "producto": "Vainica",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Yuca parafinada",
+    "fecha": "2026-01-05",
+    "precio": 800.0
+  },
+  {
+    "producto": "Zanahoria primera Malla (45",
+    "fecha": "2026-01-05",
+    "precio": 15000.0
+  },
+  {
+    "producto": "Zuquini",
+    "fecha": "2026-01-05",
+    "precio": 400.0
   }
 ]
