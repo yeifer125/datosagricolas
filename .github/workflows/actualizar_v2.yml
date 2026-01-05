@@ -29,6 +29,7 @@ jobs:
       - name: Ejecutar script
         run: |
           python pipe2.py
+          python consolidar_json.py
 
       - name: Commit cambios
         run: |
