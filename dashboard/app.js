@@ -1,55 +1,86 @@
-let chart;
+let SERIES = {};
+let TENDENCIAS = {};
+let PREDICCIONES = {};
+let ALERTAS = {};
+let chart = null;
 
-async function cargarDatos() {
-  const series = await fetch("../series_productos.json").then(r => r.json());
-  const tendencias = await fetch("../tendencias.json").then(r => r.json());
-  const predicciones = await fetch("../predicciones.json").then(r => r.json());
-  const alertas = await fetch("../alertas.json").then(r => r.json());
+// cache-busting para GitHub Pages
+const nocache = `?v=${Date.now()}`;
 
-  const select = document.getElementById("productoSelect");
-
-  Object.keys(series).forEach(producto => {
-    const option = document.createElement("option");
-    option.value = producto;
-    option.textContent = producto;
-    select.appendChild(option);
-  });
-
-  select.onchange = () =>
-    mostrarProducto(select.value, series, tendencias, predicciones, alertas);
-
-  mostrarProducto(select.value, series, tendencias, predicciones, alertas);
+async function cargarJSON(path) {
+  const res = await fetch(path + nocache);
+  if (!res.ok) throw new Error(`Error cargando ${path}`);
+  return res.json();
 }
 
-function mostrarProducto(producto, series, tendencias, predicciones, alertas) {
-  const datos = series[producto];
+async function cargarDatos() {
+  try {
+    SERIES = await cargarJSON("../data/series_productos.json");
+    TENDENCIAS = await cargarJSON("../data/tendencias.json");
+    PREDICCIONES = await cargarJSON("../data/predicciones.json");
+    ALERTAS = await cargarJSON("../data/alertas.json");
 
-  const fechas = datos.map(d => d.fecha);
-  const precios = datos.map(d => d.promedio);
+    const select = document.getElementById("productoSelect");
+    select.innerHTML = "";
 
-  document.getElementById("precioActual").innerHTML =
-    `💰 Precio actual<br><b>₡${precios[precios.length - 1]}</b>`;
+    Object.keys(SERIES).forEach(producto => {
+      const opt = document.createElement("option");
+      opt.value = producto;
+      opt.textContent = producto;
+      select.appendChild(opt);
+    });
 
-  document.getElementById("tendencia").innerHTML =
-    `📈 Tendencia<br><b>${tendencias[producto]?.tendencia || "N/A"}</b>`;
+    if (select.options.length > 0) {
+      mostrarProducto(select.value);
+    }
 
-  document.getElementById("prediccion").innerHTML =
-    `🔮 Predicción<br><b>₡${predicciones[producto]?.prediccion_proxima || "N/A"}</b>`;
+    select.onchange = () => mostrarProducto(select.value);
 
-  document.getElementById("alerta").innerHTML =
-    `🚨 Alerta<br><b>${alertas[producto] || "Sin alertas"}</b>`;
+  } catch (err) {
+    console.error(err);
+    alert("Error cargando datos agrícolas");
+  }
+}
+
+function mostrarProducto(producto) {
+  const datos = SERIES[producto];
+  if (!datos) return;
+
+  const tendencia = TENDENCIAS[producto]?.tendencia ?? "N/D";
+  const pred = PREDICCIONES[producto]?.prediccion_proxima ?? "N/D";
+  const alerta = ALERTAS[producto] ?? "Sin alertas";
+
+  document.getElementById("infoProducto").innerHTML = `
+    <h3>${producto}</h3>
+    <p>📈 Tendencia: <b>${tendencia}</b></p>
+    <p>🔮 Predicción próxima: <b>${pred}</b></p>
+    <p>🚨 Alerta: <b>${alerta}</b></p>
+  `;
+
+  actualizarGrafica(datos, producto);
+}
+
+function actualizarGrafica(datos, producto) {
+  const ctx = document.getElementById("graficaPrecios");
 
   if (chart) chart.destroy();
 
-  chart = new Chart(document.getElementById("grafico"), {
+  chart = new Chart(ctx, {
     type: "line",
     data: {
-      labels: fechas,
+      labels: datos.map(d => d.fecha),
       datasets: [{
         label: producto,
-        data: precios,
-        fill: false
+        data: datos.map(d => d.promedio),
+        borderWidth: 2,
+        tension: 0.3
       }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { display: true }
+      }
     }
   });
 }
