@@ -66,16 +66,16 @@
     "tendencia": "sube"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Coco": {
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Culantro castilla Rollo de 10": {
     "tendencia": "sube"
@@ -123,7 +123,7 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Manga grande Tommy Caja plástica (17": {
     "tendencia": "sube"
@@ -207,13 +207,13 @@
     "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Sandía de campo - grande": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -330,12 +330,12 @@
     "tendencia": "insuficiente"
   },
   "Banano rechazo de exportación (verde y maduro)": {
-    "tendencia": "insuficiente"
+    "tendencia": "sube"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   }
 }
