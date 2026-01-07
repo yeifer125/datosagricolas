@@ -1,76 +1,22 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<title>Precios Agrícolas</title>
-<link rel="icon" href="https://i.postimg.cc/KcNyWSR4/orinoco.jpg">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <meta charset="UTF-8">
+  <title>Precios Agrícolas</title>
+  <link rel="icon" href="https://i.postimg.cc/KcNyWSR4/orinoco.jpg">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
-<h1>🌾 Dashboard de Precios Agrícolas</h1>
+  <h1>🌾 Dashboard de Precios Agrícolas</h1>
 
-<select id="productoSelect"></select>
-<div id="infoProducto"></div>
-<canvas id="graficaPrecios"></canvas>
+  <select id="productoSelect"></select>
 
-<script>
-let SERIES = {};
-let TENDENCIAS = {};
-let PREDICCIONES = {};
-let ALERTAS = {};
-let chart = null;
+  <div id="infoProducto" class="card"></div>
 
-async function cargarDatos() {
-  SERIES = await fetch("data/series_productos.json").then(r => r.json());
-  TENDENCIAS = await fetch("data/tendencias.json").then(r => r.json());
-  PREDICCIONES = await fetch("data/predicciones.json").then(r => r.json());
-  ALERTAS = await fetch("data/alertas.json").then(r => r.json());
+  <canvas id="graficaPrecios"></canvas>
 
-  const select = document.getElementById("productoSelect");
-  select.innerHTML = "";
-
-  Object.keys(SERIES).forEach(p => {
-    const opt = document.createElement("option");
-    opt.value = p;
-    opt.textContent = p;
-    select.appendChild(opt);
-  });
-
-  if (select.options.length) mostrarProducto(select.value);
-  select.onchange = () => mostrarProducto(select.value);
-}
-
-function mostrarProducto(producto) {
-  const datos = SERIES[producto];
-
-  document.getElementById("infoProducto").innerHTML = `
-    <b>${producto}</b><br>
-    Tendencia: ${TENDENCIAS[producto]?.tendencia ?? "N/D"}<br>
-    Predicción: ${PREDICCIONES[producto]?.prediccion_proxima ?? "N/D"}<br>
-    Alerta: ${ALERTAS[producto] ?? "Sin alertas"}
-  `;
-
-  actualizarGrafica(datos, producto);
-}
-
-function actualizarGrafica(datos, producto) {
-  if (chart) chart.destroy();
-
-  chart = new Chart(document.getElementById("graficaPrecios"), {
-    type: "line",
-    data: {
-      labels: datos.map(d => d.fecha),
-      datasets: [{
-        label: producto,
-        data: datos.map(d => d.promedio),
-        borderWidth: 2
-      }]
-    }
-  });
-}
-
-cargarDatos();
-</script>
+  <script src="app.js"></script>
 </body>
 </html>
