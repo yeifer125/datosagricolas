@@ -75,7 +75,7 @@
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Culantro castilla Rollo de 10": {
     "tendencia": "sube"
@@ -87,7 +87,7 @@
     "tendencia": "estable"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Fresa (400 g) Bandeja (400": {
     "tendencia": "estable"
@@ -204,10 +204,10 @@
     "tendencia": "sube"
   },
   "Repollo morado": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo verde": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Sandía de campo - grande": {
     "tendencia": "baja"
@@ -324,10 +324,10 @@
     "tendencia": "insuficiente"
   },
   "Aguacate Hass de Costa Rica - Super Extra": {
-    "tendencia": "insuficiente"
+    "tendencia": "baja"
   },
   "Aguacate Hass de Costa Rica - Supremo": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Banano rechazo de exportación (verde y maduro)": {
     "tendencia": "sube"
@@ -337,5 +337,8 @@
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
+  },
+  "Aguacate Hass de Costa Rica - Extra": {
+    "tendencia": "insuficiente"
   }
 }
