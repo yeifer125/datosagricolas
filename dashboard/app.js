@@ -1,71 +1,45 @@
-let SERIES = {};
-let TENDENCIAS = {};
-let PREDICCIONES = {};
-let ALERTAS = {};
-let chart = null;
+let chart;
 
-// cache-busting para GitHub Pages
-const nocache = `?v=${Date.now()}`;
-
-async function cargarJSON(path) {
-  const res = await fetch(path + nocache);
-  if (!res.ok) throw new Error(`Error cargando ${path}`);
-  return res.json();
-}
+const BASE =
+  "https://raw.githubusercontent.com/yeifer125/datosagricolas/main/data";
 
 async function cargarDatos() {
-  try {
-    SERIES = await cargarJSON("../data/series_productos.json");
-    TENDENCIAS = await cargarJSON("../data/tendencias.json");
-    PREDICCIONES = await cargarJSON("../data/predicciones.json");
-    ALERTAS = await cargarJSON("../data/alertas.json");
+  const series = await fetch(`${BASE}/series_productos.json`).then(r => r.json());
+  const tendencias = await fetch(`${BASE}/tendencias.json`).then(r => r.json());
+  const predicciones = await fetch(`${BASE}/predicciones.json`).then(r => r.json());
+  const alertas = await fetch(`${BASE}/alertas.json`).then(r => r.json());
 
-    const select = document.getElementById("productoSelect");
-    select.innerHTML = "";
+  const select = document.getElementById("productoSelect");
+  select.innerHTML = "";
 
-    Object.keys(SERIES).forEach(producto => {
-      const opt = document.createElement("option");
-      opt.value = producto;
-      opt.textContent = producto;
-      select.appendChild(opt);
-    });
+  Object.keys(series).forEach(producto => {
+    const option = document.createElement("option");
+    option.value = producto;
+    option.textContent = producto;
+    select.appendChild(option);
+  });
 
-    if (select.options.length > 0) {
-      mostrarProducto(select.value);
-    }
-
-    select.onchange = () => mostrarProducto(select.value);
-
-  } catch (err) {
-    console.error(err);
-    alert("Error cargando datos agrícolas");
+  if (select.options.length) {
+    mostrarProducto(select.value, series, tendencias, predicciones, alertas);
   }
+
+  select.onchange = () =>
+    mostrarProducto(select.value, series, tendencias, predicciones, alertas);
 }
 
-function mostrarProducto(producto) {
-  const datos = SERIES[producto];
-  if (!datos) return;
-
-  const tendencia = TENDENCIAS[producto]?.tendencia ?? "N/D";
-  const pred = PREDICCIONES[producto]?.prediccion_proxima ?? "N/D";
-  const alerta = ALERTAS[producto] ?? "Sin alertas";
+function mostrarProducto(producto, series, tendencias, predicciones, alertas) {
+  const datos = series[producto];
 
   document.getElementById("infoProducto").innerHTML = `
-    <h3>${producto}</h3>
-    <p>📈 Tendencia: <b>${tendencia}</b></p>
-    <p>🔮 Predicción próxima: <b>${pred}</b></p>
-    <p>🚨 Alerta: <b>${alerta}</b></p>
+    <b>${producto}</b><br>
+    📈 Tendencia: ${tendencias[producto]?.tendencia || "N/D"}<br>
+    🔮 Predicción: ${predicciones[producto]?.prediccion_proxima || "N/D"}<br>
+    🚨 Alerta: ${alertas[producto] || "Sin alertas"}
   `;
-
-  actualizarGrafica(datos, producto);
-}
-
-function actualizarGrafica(datos, producto) {
-  const ctx = document.getElementById("graficaPrecios");
 
   if (chart) chart.destroy();
 
-  chart = new Chart(ctx, {
+  chart = new Chart(document.getElementById("graficaPrecios"), {
     type: "line",
     data: {
       labels: datos.map(d => d.fecha),
@@ -73,13 +47,42 @@ function actualizarGrafica(datos, producto) {
         label: producto,
         data: datos.map(d => d.promedio),
         borderWidth: 2,
-        tension: 0.3
+        tension: 0.3,
+        pointRadius: 2,
+        pointHoverRadius: 5
       }]
     },
     options: {
       responsive: true,
+      maintainAspectRatio: false,
+
+      /* 🔑 ESTO HACE QUE EL TOOLTIP FUNCIONE */
+      interaction: {
+        mode: "index",
+        intersect: false
+      },
+
       plugins: {
-        legend: { display: true }
+        tooltip: {
+          enabled: true,
+          callbacks: {
+            title: (items) => {
+              return "📅 Fecha: " + items[0].label;
+            },
+            label: (item) => {
+              return "💰 Precio: ₡" + item.formattedValue;
+            }
+          }
+        }
+      },
+
+      scales: {
+        x: {
+          ticks: {
+            autoSkip: true,
+            maxTicksLimit: 10
+          }
+        }
       }
     }
   });
