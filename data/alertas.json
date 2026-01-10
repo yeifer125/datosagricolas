@@ -28,8 +28,8 @@
   "Mandarina segunda": "📈 Precio en máximo histórico",
   "Manzana Anna de Costa Rica": "📈 Precio en máximo histórico",
   "Maracuyá": "📈 Precio en máximo histórico",
-  "Mora congelada": "📈 Precio en máximo histórico",
-  "Mora fresca": "📈 Precio en máximo histórico",
+  "Mora congelada": "📉 Precio en mínimo histórico",
+  "Mora fresca": "📉 Precio en mínimo histórico",
   "Nance": "📈 Precio en máximo histórico",
   "Naranjilla": "📈 Precio en máximo histórico",
   "Papaya híbrida": "📈 Precio en máximo histórico",
@@ -92,5 +92,7 @@
   "Banano rechazo de exportación (verde y maduro)": "📈 Precio en máximo histórico",
   "Plátano primera (verde y maduro)": "📈 Precio en máximo histórico",
   "Plátano segunda (verde y maduro)": "📈 Precio en máximo histórico",
-  "Aguacate Hass de Costa Rica - Extra": "📈 Precio en máximo histórico"
+  "Aguacate Hass de Costa Rica - Extra": "📈 Precio en máximo histórico",
+  "Piña - mediana": "📉 Precio en mínimo histórico",
+  "Piña - pequeña": "📉 Precio en mínimo histórico"
 }

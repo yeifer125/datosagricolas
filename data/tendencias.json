@@ -63,7 +63,7 @@
     "tendencia": "estable"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce segunda Caja": {
     "tendencia": "baja"
@@ -75,7 +75,7 @@
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Culantro castilla Rollo de 10": {
     "tendencia": "sube"
@@ -90,7 +90,7 @@
     "tendencia": "estable"
   },
   "Fresa (400 g) Bandeja (400": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Guayaba China/Taiwanesa": {
     "tendencia": "estable"
@@ -132,16 +132,16 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Melón Cantaloupe": {
     "tendencia": "baja"
   },
   "Mora congelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mora fresca": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Nance": {
     "tendencia": "estable"
@@ -183,10 +183,10 @@
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Piña - pequeña": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Pipa pelada": {
     "tendencia": "estable"
@@ -207,13 +207,13 @@
     "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Sandía de campo - grande": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -339,6 +339,6 @@
     "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   }
 }
