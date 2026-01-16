@@ -1,0 +1,257 @@
+{
+  "Apio verde (mata)": {
+    "tendencia": "estable"
+  },
+  "Ayote sazón": {
+    "tendencia": "estable"
+  },
+  "Banano maduro criollo": {
+    "tendencia": "estable"
+  },
+  "Banano rechazo de exportación (verde y maduro)": {
+    "tendencia": "estable"
+  },
+  "Brócoli": {
+    "tendencia": "baja"
+  },
+  "Camote": {
+    "tendencia": "estable"
+  },
+  "Cebolla seca amarilla burra": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca amarilla suelta": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca amarilla trenza": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca morada": {
+    "tendencia": "estable"
+  },
+  "Chayote tierno criollo": {
+    "tendencia": "sube"
+  },
+  "Chayote tierno quelite": {
+    "tendencia": "sube"
+  },
+  "Chile dulce jumbo Caja": {
+    "tendencia": "sube"
+  },
+  "Chile dulce primera Caja": {
+    "tendencia": "sube"
+  },
+  "Chile dulce segunda Caja": {
+    "tendencia": "sube"
+  },
+  "Chile dulce tercera Caja": {
+    "tendencia": "estable"
+  },
+  "Coliflor": {
+    "tendencia": "baja"
+  },
+  "Culantro castilla Rollo de 10": {
+    "tendencia": "estable"
+  },
+  "Elote": {
+    "tendencia": "estable"
+  },
+  "Guanábana injertada": {
+    "tendencia": "baja"
+  },
+  "Jengibre sazón": {
+    "tendencia": "estable"
+  },
+  "Lechuga Americana": {
+    "tendencia": "estable"
+  },
+  "Limón mandarina": {
+    "tendencia": "estable"
+  },
+  "Limón mesino": {
+    "tendencia": "sube"
+  },
+  "Mandarina primera": {
+    "tendencia": "estable"
+  },
+  "Mandarina segunda": {
+    "tendencia": "estable"
+  },
+  "Manga grande Cavallini Caja plástica (17": {
+    "tendencia": "estable"
+  },
+  "Manga grande Keitt Caja plástica (17": {
+    "tendencia": "baja"
+  },
+  "Manga grande Tommy Caja plástica (17": {
+    "tendencia": "baja"
+  },
+  "Manga pequeña Mora Caja plástica (17": {
+    "tendencia": "insuficiente"
+  },
+  "Melón Cantaloupe": {
+    "tendencia": "baja"
+  },
+  "Naranja dulce": {
+    "tendencia": "estable"
+  },
+  "Ñampí": {
+    "tendencia": "estable"
+  },
+  "Papa amarilla primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa blanca primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papaya híbrida": {
+    "tendencia": "baja"
+  },
+  "Pepino": {
+    "tendencia": "sube"
+  },
+  "Piña - grande": {
+    "tendencia": "estable"
+  },
+  "Piña - mediana": {
+    "tendencia": "estable"
+  },
+  "Piña - pequeña": {
+    "tendencia": "estable"
+  },
+  "Plátano primera (verde y maduro)": {
+    "tendencia": "baja"
+  },
+  "Plátano segunda (verde y maduro)": {
+    "tendencia": "estable"
+  },
+  "Remolacha": {
+    "tendencia": "estable"
+  },
+  "Repollo morado": {
+    "tendencia": "estable"
+  },
+  "Repollo verde": {
+    "tendencia": "baja"
+  },
+  "Sandía de campo - grande": {
+    "tendencia": "baja"
+  },
+  "Sandía de campo - mediana": {
+    "tendencia": "baja"
+  },
+  "Tiquisque": {
+    "tendencia": "sube"
+  },
+  "Tomate primera Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Tomate segunda Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Tomate tercera Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Vainica": {
+    "tendencia": "sube"
+  },
+  "Yuca parafinada": {
+    "tendencia": "baja"
+  },
+  "Zanahoria primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Aguacate Hass de Costa Rica - Extra": {
+    "tendencia": "sube"
+  },
+  "Aguacate Hass de Costa Rica - Super Extra": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de Costa Rica - Supremo": {
+    "tendencia": "sube"
+  },
+  "Ayote sazón mantequilla": {
+    "tendencia": "estable"
+  },
+  "Ayote tierno": {
+    "tendencia": "sube"
+  },
+  "Camote Zanahoria": {
+    "tendencia": "baja"
+  },
+  "Carambola": {
+    "tendencia": "estable"
+  },
+  "Cebollino": {
+    "tendencia": "estable"
+  },
+  "Coco": {
+    "tendencia": "estable"
+  },
+  "Espinaca": {
+    "tendencia": "estable"
+  },
+  "Fresa (1 Kg) Bandeja (1": {
+    "tendencia": "baja"
+  },
+  "Fresa (400 g) Bandeja (400": {
+    "tendencia": "baja"
+  },
+  "Guayaba China/Taiwanesa": {
+    "tendencia": "baja"
+  },
+  "Limón dulce": {
+    "tendencia": "insuficiente"
+  },
+  "Maracuyá": {
+    "tendencia": "sube"
+  },
+  "Mora congelada": {
+    "tendencia": "estable"
+  },
+  "Mora fresca": {
+    "tendencia": "estable"
+  },
+  "Naranjilla": {
+    "tendencia": "sube"
+  },
+  "Papa polilla Malla (45": {
+    "tendencia": "estable"
+  },
+  "Papa roja Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa semilla Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa semillón Malla (45": {
+    "tendencia": "baja"
+  },
+  "Pipa pelada": {
+    "tendencia": "estable"
+  },
+  "Tamarindo": {
+    "tendencia": "estable"
+  },
+  "Zuquini": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de Costa Rica": {
+    "tendencia": "insuficiente"
+  },
+  "Banano maduro rechazo de exportación": {
+    "tendencia": "baja"
+  },
+  "Banano verde rechazo de exportación": {
+    "tendencia": "baja"
+  },
+  "Cas": {
+    "tendencia": "insuficiente"
+  },
+  "Plátano maduro": {
+    "tendencia": "baja"
+  },
+  "Plátano verde": {
+    "tendencia": "baja"
+  }
+}
