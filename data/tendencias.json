@@ -3,13 +3,13 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Ayote sazón": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Ayote sazón mantequilla": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Ayote tierno": {
     "tendencia": "sube"
@@ -33,7 +33,7 @@
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cas": {
     "tendencia": "insuficiente"
@@ -132,22 +132,22 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Melón Cantaloupe": {
     "tendencia": "baja"
   },
   "Mora congelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mora fresca": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Nance": {
     "tendencia": "estable"
   },
   "Naranja dulce": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Naranjilla": {
     "tendencia": "sube"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -243,10 +243,10 @@
     "tendencia": "baja"
   },
   "Zuquini": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca amarilla suelta importada": {
-    "tendencia": "baja"
+    "tendencia": "insuficiente"
   },
   "Cebolla seca morada importada": {
     "tendencia": "estable"
@@ -324,21 +324,21 @@
     "tendencia": "insuficiente"
   },
   "Aguacate Hass de Costa Rica - Super Extra": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Aguacate Hass de Costa Rica - Supremo": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Banano rechazo de exportación (verde y maduro)": {
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   }
 }
