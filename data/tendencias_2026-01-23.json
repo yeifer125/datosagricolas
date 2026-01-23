@@ -1,0 +1,341 @@
+{
+  "Apio verde (mata)": {
+    "tendencia": "estable"
+  },
+  "Ayote sazón": {
+    "tendencia": "estable"
+  },
+  "Banano maduro criollo": {
+    "tendencia": "estable"
+  },
+  "Banano rechazo de exportación (verde y maduro)": {
+    "tendencia": "estable"
+  },
+  "Brócoli": {
+    "tendencia": "baja"
+  },
+  "Camote": {
+    "tendencia": "estable"
+  },
+  "Cebolla seca amarilla burra": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca amarilla suelta": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca amarilla trenza": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca morada": {
+    "tendencia": "sube"
+  },
+  "Chayote tierno criollo": {
+    "tendencia": "sube"
+  },
+  "Chayote tierno quelite": {
+    "tendencia": "sube"
+  },
+  "Chile dulce jumbo Caja": {
+    "tendencia": "baja"
+  },
+  "Chile dulce primera Caja": {
+    "tendencia": "baja"
+  },
+  "Chile dulce segunda Caja": {
+    "tendencia": "baja"
+  },
+  "Chile dulce tercera Caja": {
+    "tendencia": "baja"
+  },
+  "Coliflor": {
+    "tendencia": "baja"
+  },
+  "Culantro castilla Rollo de 10": {
+    "tendencia": "estable"
+  },
+  "Elote": {
+    "tendencia": "estable"
+  },
+  "Guanábana injertada": {
+    "tendencia": "baja"
+  },
+  "Jengibre sazón": {
+    "tendencia": "estable"
+  },
+  "Lechuga Americana": {
+    "tendencia": "estable"
+  },
+  "Limón mandarina": {
+    "tendencia": "estable"
+  },
+  "Limón mesino": {
+    "tendencia": "sube"
+  },
+  "Mandarina primera": {
+    "tendencia": "estable"
+  },
+  "Mandarina segunda": {
+    "tendencia": "estable"
+  },
+  "Manga grande Cavallini Caja plástica (17": {
+    "tendencia": "estable"
+  },
+  "Manga grande Keitt Caja plástica (17": {
+    "tendencia": "baja"
+  },
+  "Manga grande Tommy Caja plástica (17": {
+    "tendencia": "baja"
+  },
+  "Manga pequeña Mora Caja plástica (17": {
+    "tendencia": "insuficiente"
+  },
+  "Melón Cantaloupe": {
+    "tendencia": "baja"
+  },
+  "Naranja dulce": {
+    "tendencia": "estable"
+  },
+  "Ñampí": {
+    "tendencia": "estable"
+  },
+  "Papa amarilla primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa blanca primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papaya híbrida": {
+    "tendencia": "baja"
+  },
+  "Pepino": {
+    "tendencia": "sube"
+  },
+  "Piña - grande": {
+    "tendencia": "estable"
+  },
+  "Piña - mediana": {
+    "tendencia": "estable"
+  },
+  "Piña - pequeña": {
+    "tendencia": "estable"
+  },
+  "Plátano primera (verde y maduro)": {
+    "tendencia": "baja"
+  },
+  "Plátano segunda (verde y maduro)": {
+    "tendencia": "estable"
+  },
+  "Remolacha": {
+    "tendencia": "estable"
+  },
+  "Repollo morado": {
+    "tendencia": "estable"
+  },
+  "Repollo verde": {
+    "tendencia": "baja"
+  },
+  "Sandía de campo - grande": {
+    "tendencia": "baja"
+  },
+  "Sandía de campo - mediana": {
+    "tendencia": "baja"
+  },
+  "Tiquisque": {
+    "tendencia": "sube"
+  },
+  "Tomate primera Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Tomate segunda Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Tomate tercera Caja plástica (18": {
+    "tendencia": "baja"
+  },
+  "Vainica": {
+    "tendencia": "sube"
+  },
+  "Yuca parafinada": {
+    "tendencia": "baja"
+  },
+  "Zanahoria primera Malla (45": {
+    "tendencia": "baja"
+  },
+  "Aguacate Hass de Costa Rica - Extra": {
+    "tendencia": "baja"
+  },
+  "Aguacate Hass de Costa Rica - Super Extra": {
+    "tendencia": "baja"
+  },
+  "Aguacate Hass de Costa Rica - Supremo": {
+    "tendencia": "estable"
+  },
+  "Ayote sazón mantequilla": {
+    "tendencia": "estable"
+  },
+  "Ayote tierno": {
+    "tendencia": "sube"
+  },
+  "Camote Zanahoria": {
+    "tendencia": "baja"
+  },
+  "Carambola": {
+    "tendencia": "baja"
+  },
+  "Cebollino": {
+    "tendencia": "estable"
+  },
+  "Coco": {
+    "tendencia": "estable"
+  },
+  "Espinaca": {
+    "tendencia": "estable"
+  },
+  "Fresa (1 Kg) Bandeja (1": {
+    "tendencia": "baja"
+  },
+  "Fresa (400 g) Bandeja (400": {
+    "tendencia": "baja"
+  },
+  "Guayaba China/Taiwanesa": {
+    "tendencia": "baja"
+  },
+  "Limón dulce": {
+    "tendencia": "estable"
+  },
+  "Maracuyá": {
+    "tendencia": "estable"
+  },
+  "Mora congelada": {
+    "tendencia": "baja"
+  },
+  "Mora fresca": {
+    "tendencia": "baja"
+  },
+  "Naranjilla": {
+    "tendencia": "sube"
+  },
+  "Papa polilla Malla (45": {
+    "tendencia": "estable"
+  },
+  "Papa roja Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa semilla Malla (45": {
+    "tendencia": "baja"
+  },
+  "Papa semillón Malla (45": {
+    "tendencia": "baja"
+  },
+  "Pipa pelada": {
+    "tendencia": "estable"
+  },
+  "Tamarindo": {
+    "tendencia": "estable"
+  },
+  "Zuquini": {
+    "tendencia": "sube"
+  },
+  "Aguacate Hass de Costa Rica": {
+    "tendencia": "insuficiente"
+  },
+  "Banano maduro rechazo de exportación": {
+    "tendencia": "baja"
+  },
+  "Banano verde rechazo de exportación": {
+    "tendencia": "baja"
+  },
+  "Cas": {
+    "tendencia": "estable"
+  },
+  "Plátano maduro": {
+    "tendencia": "baja"
+  },
+  "Plátano verde": {
+    "tendencia": "baja"
+  },
+  "Cebolla seca amarilla suelta importada": {
+    "tendencia": "insuficiente"
+  },
+  "Aguacate Hass de Chile - Super Extra Caja (10": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de Chile - Supremo Caja (10": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de México - Extra Caja (10": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de México - Super Extra Caja (10": {
+    "tendencia": "estable"
+  },
+  "Aguacate Hass de México - Supremo Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China puro blanco (presentación 1x3) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China puro blanco (presentación 1x5) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China puro blanco (presentación trenza 1 kg) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China veteado (presentación 1x3) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China veteado (presentación 500 gramos) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Ajo de China veteado (presentación trenza 1 kg) Caja (10": {
+    "tendencia": "estable"
+  },
+  "Arándano Bandeja (125": {
+    "tendencia": "estable"
+  },
+  "Ciruela importada": {
+    "tendencia": "estable"
+  },
+  "Kiwi": {
+    "tendencia": "estable"
+  },
+  "Mandarina Clementina": {
+    "tendencia": "estable"
+  },
+  "Manzana Gala Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Manzana Gala. Caja (150-198": {
+    "tendencia": "estable"
+  },
+  "Manzana Golden Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Manzana Roja Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Manzana Verde Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Melocotón": {
+    "tendencia": "estable"
+  },
+  "Naranja Washington importada": {
+    "tendencia": "estable"
+  },
+  "Nectarina": {
+    "tendencia": "estable"
+  },
+  "Pera de Argentina Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Pera de Estados Unidos Caja (80-100": {
+    "tendencia": "estable"
+  },
+  "Uva globo de Perú Caja (8.2": {
+    "tendencia": "estable"
+  },
+  "Uva verde Caja (8.2": {
+    "tendencia": "estable"
+  }
+}
