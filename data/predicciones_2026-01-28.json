@@ -1,0 +1,236 @@
+{
+  "Apio verde (mata)": {
+    "prediccion_proxima": 1183.33
+  },
+  "Ayote sazón": {
+    "prediccion_proxima": 350.0
+  },
+  "Banano maduro criollo": {
+    "prediccion_proxima": 30.0
+  },
+  "Banano rechazo de exportación (verde y maduro)": {
+    "prediccion_proxima": 3000.0
+  },
+  "Brócoli": {
+    "prediccion_proxima": 1155.56
+  },
+  "Camote": {
+    "prediccion_proxima": 694.44
+  },
+  "Cebolla seca amarilla burra": {
+    "prediccion_proxima": 744.44
+  },
+  "Cebolla seca amarilla suelta": {
+    "prediccion_proxima": 744.44
+  },
+  "Cebolla seca amarilla trenza": {
+    "prediccion_proxima": 744.44
+  },
+  "Cebolla seca morada": {
+    "prediccion_proxima": 1800.0
+  },
+  "Chayote tierno criollo": {
+    "prediccion_proxima": 12111.11
+  },
+  "Chayote tierno quelite": {
+    "prediccion_proxima": 12222.22
+  },
+  "Chile dulce jumbo Caja": {
+    "prediccion_proxima": 27000.0
+  },
+  "Chile dulce primera Caja": {
+    "prediccion_proxima": 26111.11
+  },
+  "Chile dulce segunda Caja": {
+    "prediccion_proxima": 24222.22
+  },
+  "Chile dulce tercera Caja": {
+    "prediccion_proxima": 13055.56
+  },
+  "Coliflor": {
+    "prediccion_proxima": 788.89
+  },
+  "Culantro castilla Rollo de 10": {
+    "prediccion_proxima": 800.0
+  },
+  "Elote": {
+    "prediccion_proxima": 150.0
+  },
+  "Guanábana injertada": {
+    "prediccion_proxima": 1800.0
+  },
+  "Jengibre sazón": {
+    "prediccion_proxima": 1000.0
+  },
+  "Lechuga Americana": {
+    "prediccion_proxima": 250.0
+  },
+  "Limón mandarina": {
+    "prediccion_proxima": 80.0
+  },
+  "Limón mesino": {
+    "prediccion_proxima": 142.22
+  },
+  "Mandarina primera": {
+    "prediccion_proxima": 200.0
+  },
+  "Mandarina segunda": {
+    "prediccion_proxima": 150.0
+  },
+  "Manga grande Cavallini Caja plástica (17": {
+    "prediccion_proxima": 17857.14
+  },
+  "Manga grande Keitt Caja plástica (17": {
+    "prediccion_proxima": 11812.5
+  },
+  "Manga grande Tommy Caja plástica (17": {
+    "prediccion_proxima": 17625.0
+  },
+  "Melón Cantaloupe": {
+    "prediccion_proxima": 488.89
+  },
+  "Naranja dulce": {
+    "prediccion_proxima": 120.0
+  },
+  "Ñampí": {
+    "prediccion_proxima": 800.0
+  },
+  "Papa amarilla primera Malla (45": {
+    "prediccion_proxima": 34722.22
+  },
+  "Papa blanca primera Malla (45": {
+    "prediccion_proxima": 37777.78
+  },
+  "Papaya híbrida": {
+    "prediccion_proxima": 447.22
+  },
+  "Pepino": {
+    "prediccion_proxima": 616.67
+  },
+  "Piña - grande": {
+    "prediccion_proxima": 1200.0
+  },
+  "Piña - mediana": {
+    "prediccion_proxima": 1000.0
+  },
+  "Piña - pequeña": {
+    "prediccion_proxima": 800.0
+  },
+  "Plátano primera (verde y maduro)": {
+    "prediccion_proxima": 240.0
+  },
+  "Plátano segunda (verde y maduro)": {
+    "prediccion_proxima": 200.0
+  },
+  "Remolacha": {
+    "prediccion_proxima": 300.0
+  },
+  "Repollo morado": {
+    "prediccion_proxima": 700.0
+  },
+  "Repollo verde": {
+    "prediccion_proxima": 236.11
+  },
+  "Sandía de campo - grande": {
+    "prediccion_proxima": 447.22
+  },
+  "Sandía de campo - mediana": {
+    "prediccion_proxima": 294.44
+  },
+  "Tiquisque": {
+    "prediccion_proxima": 1511.11
+  },
+  "Tomate primera Caja plástica (18": {
+    "prediccion_proxima": 6833.33
+  },
+  "Tomate segunda Caja plástica (18": {
+    "prediccion_proxima": 5833.33
+  },
+  "Tomate tercera Caja plástica (18": {
+    "prediccion_proxima": 4944.44
+  },
+  "Vainica": {
+    "prediccion_proxima": 2072.22
+  },
+  "Yuca parafinada": {
+    "prediccion_proxima": 588.89
+  },
+  "Zanahoria primera Malla (45": {
+    "prediccion_proxima": 9833.33
+  },
+  "Aguacate Hass de Costa Rica - Extra": {
+    "prediccion_proxima": 1375.0
+  },
+  "Aguacate Hass de Costa Rica - Super Extra": {
+    "prediccion_proxima": 1583.33
+  },
+  "Aguacate Hass de Costa Rica - Supremo": {
+    "prediccion_proxima": 1800.0
+  },
+  "Ayote sazón mantequilla": {
+    "prediccion_proxima": 800.0
+  },
+  "Ayote tierno": {
+    "prediccion_proxima": 510.0
+  },
+  "Camote Zanahoria": {
+    "prediccion_proxima": 1577.78
+  },
+  "Carambola": {
+    "prediccion_proxima": 800.0
+  },
+  "Cebollino": {
+    "prediccion_proxima": 250.0
+  },
+  "Coco": {
+    "prediccion_proxima": 500.0
+  },
+  "Espinaca": {
+    "prediccion_proxima": 250.0
+  },
+  "Fresa (1 Kg) Bandeja (1": {
+    "prediccion_proxima": 2250.0
+  },
+  "Fresa (400 g) Bandeja (400": {
+    "prediccion_proxima": 1180.0
+  },
+  "Guayaba China/Taiwanesa": {
+    "prediccion_proxima": 1000.0
+  },
+  "Maracuyá": {
+    "prediccion_proxima": 1330.0
+  },
+  "Mora congelada": {
+    "prediccion_proxima": 1800.0
+  },
+  "Mora fresca": {
+    "prediccion_proxima": 1800.0
+  },
+  "Naranjilla": {
+    "prediccion_proxima": 1300.0
+  },
+  "Papa polilla Malla (45": {
+    "prediccion_proxima": 5888.89
+  },
+  "Papa roja Malla (45": {
+    "prediccion_proxima": 23333.33
+  },
+  "Papa semilla Malla (45": {
+    "prediccion_proxima": 11000.0
+  },
+  "Papa semillón Malla (45": {
+    "prediccion_proxima": 11000.0
+  },
+  "Pipa pelada": {
+    "prediccion_proxima": 277.78
+  },
+  "Tamarindo": {
+    "prediccion_proxima": 2000.0
+  },
+  "Zuquini": {
+    "prediccion_proxima": 411.11
+  },
+  "Cas": {
+    "prediccion_proxima": 1333.33
+  }
+}
