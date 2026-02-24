@@ -3,13 +3,13 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
     "tendencia": "sube"
   },
   "Ayote sazón mantequilla": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Ayote tierno": {
     "tendencia": "sube"
@@ -27,13 +27,13 @@
     "tendencia": "baja"
   },
   "Camote": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Camote Zanahoria": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cas": {
     "tendencia": "baja"
@@ -42,16 +42,16 @@
     "tendencia": "sube"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca morada": {
     "tendencia": "baja"
   },
   "Cebollino": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chayote tierno criollo": {
     "tendencia": "sube"
@@ -69,16 +69,16 @@
     "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Coco": {
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Culantro castilla Rollo de 10": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Elote": {
     "tendencia": "estable"
@@ -87,13 +87,13 @@
     "tendencia": "estable"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Fresa (400 g) Bandeja (400": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Jengibre sazón": {
     "tendencia": "estable"
@@ -105,13 +105,13 @@
     "tendencia": "estable"
   },
   "Limón dulce": {
-    "tendencia": "baja"
+    "tendencia": "insuficiente"
   },
   "Limón mandarina": {
     "tendencia": "estable"
   },
   "Limón mesino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mamón chino injertado": {
     "tendencia": "baja"
@@ -135,7 +135,7 @@
     "tendencia": "estable"
   },
   "Melón Cantaloupe": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -150,7 +150,7 @@
     "tendencia": "estable"
   },
   "Naranjilla": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ñampí": {
     "tendencia": "sube"
@@ -162,16 +162,16 @@
     "tendencia": "baja"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papaya híbrida": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -201,19 +201,19 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Sandía de campo - grande": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -222,19 +222,19 @@
     "tendencia": "sube"
   },
   "Tomate primera Caja plástica (18": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Tomate segunda Caja plástica (18": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Tomate tercera Caja plástica (18": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Vainica": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Yuca parafinada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Yuplón": {
     "tendencia": "estable"
@@ -312,7 +312,7 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Granadilla segunda": {
     "tendencia": "baja"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
