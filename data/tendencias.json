@@ -24,7 +24,7 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Camote": {
     "tendencia": "sube"
@@ -66,10 +66,10 @@
     "tendencia": "baja"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Coco": {
     "tendencia": "estable"
@@ -108,7 +108,7 @@
     "tendencia": "insuficiente"
   },
   "Limón mandarina": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Limón mesino": {
     "tendencia": "estable"
@@ -135,7 +135,7 @@
     "tendencia": "estable"
   },
   "Melón Cantaloupe": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "estable"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -330,13 +330,13 @@
     "tendencia": "estable"
   },
   "Banano rechazo de exportación (verde y maduro)": {
-    "tendencia": "estable"
-  },
-  "Plátano primera (verde y maduro)": {
     "tendencia": "sube"
   },
+  "Plátano primera (verde y maduro)": {
+    "tendencia": "estable"
+  },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
