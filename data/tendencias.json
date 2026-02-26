@@ -24,16 +24,16 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Camote": {
     "tendencia": "sube"
   },
   "Camote Zanahoria": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Carambola": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cas": {
     "tendencia": "baja"
@@ -57,7 +57,7 @@
     "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chile dulce jumbo Caja": {
     "tendencia": "baja"
@@ -84,7 +84,7 @@
     "tendencia": "estable"
   },
   "Espinaca": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (1 Kg) Bandeja (1": {
     "tendencia": "estable"
@@ -162,22 +162,22 @@
     "tendencia": "baja"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pejibaye": {
     "tendencia": "baja"
   },
   "Pepino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Piña - grande": {
     "tendencia": "estable"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -255,7 +255,7 @@
     "tendencia": "baja"
   },
   "Guanábana injertada": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
@@ -312,10 +312,10 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Granadilla segunda": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Jengibre tierno": {
     "tendencia": "estable"
@@ -330,7 +330,7 @@
     "tendencia": "estable"
   },
   "Banano rechazo de exportación (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
     "tendencia": "estable"
