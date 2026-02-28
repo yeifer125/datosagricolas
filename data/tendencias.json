@@ -24,7 +24,7 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Camote": {
     "tendencia": "sube"
@@ -33,7 +33,7 @@
     "tendencia": "estable"
   },
   "Carambola": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cas": {
     "tendencia": "baja"
@@ -84,7 +84,7 @@
     "tendencia": "estable"
   },
   "Espinaca": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Fresa (1 Kg) Bandeja (1": {
     "tendencia": "estable"
@@ -132,10 +132,10 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Melón Cantaloupe": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -165,13 +165,13 @@
     "tendencia": "baja"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papaya híbrida": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -240,7 +240,7 @@
     "tendencia": "estable"
   },
   "Zanahoria primera Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Zuquini": {
     "tendencia": "sube"
@@ -312,10 +312,10 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Granadilla segunda": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Jengibre tierno": {
     "tendencia": "estable"
