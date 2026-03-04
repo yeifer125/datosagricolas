@@ -57,19 +57,19 @@
     "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Chile dulce segunda Caja": {
     "tendencia": "sube"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Coco": {
     "tendencia": "estable"
@@ -81,7 +81,7 @@
     "tendencia": "sube"
   },
   "Elote": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Espinaca": {
     "tendencia": "estable"
@@ -177,7 +177,7 @@
     "tendencia": "baja"
   },
   "Pepino": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - grande": {
     "tendencia": "estable"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -333,7 +333,7 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
@@ -424,5 +424,8 @@
   },
   "Manga grande Haden Caja plástica (17": {
     "tendencia": "baja"
+  },
+  "Melón Caribbean rechazo de exportación": {
+    "tendencia": "insuficiente"
   }
 }
