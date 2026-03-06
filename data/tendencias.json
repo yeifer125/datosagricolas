@@ -24,7 +24,7 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Camote": {
     "tendencia": "sube"
@@ -57,19 +57,19 @@
     "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Coco": {
     "tendencia": "estable"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -219,7 +219,7 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tomate primera Caja plástica (18": {
     "tendencia": "baja"
@@ -240,7 +240,7 @@
     "tendencia": "estable"
   },
   "Zanahoria primera Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Zuquini": {
     "tendencia": "sube"
@@ -333,7 +333,7 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
@@ -426,6 +426,6 @@
     "tendencia": "baja"
   },
   "Melón Caribbean rechazo de exportación": {
-    "tendencia": "insuficiente"
+    "tendencia": "sube"
   }
 }
