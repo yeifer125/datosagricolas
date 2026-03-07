@@ -36,7 +36,7 @@
     "tendencia": "sube"
   },
   "Cas": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla burra": {
     "tendencia": "sube"
@@ -138,10 +138,10 @@
     "tendencia": "sube"
   },
   "Mora congelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mora fresca": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Nance": {
     "tendencia": "estable"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -312,7 +312,7 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Granadilla segunda": {
     "tendencia": "baja"
@@ -427,5 +427,8 @@
   },
   "Melón Caribbean rechazo de exportación": {
     "tendencia": "sube"
+  },
+  "Melón Mag rechazo de exportación": {
+    "tendencia": "insuficiente"
   }
 }
