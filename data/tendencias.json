@@ -3,13 +3,13 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón mantequilla": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote tierno": {
     "tendencia": "estable"
@@ -39,7 +39,7 @@
     "tendencia": "baja"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta": {
     "tendencia": "sube"
@@ -51,13 +51,13 @@
     "tendencia": "baja"
   },
   "Cebollino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chayote tierno criollo": {
     "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce jumbo Caja": {
     "tendencia": "baja"
@@ -66,10 +66,10 @@
     "tendencia": "baja"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Coco": {
     "tendencia": "estable"
@@ -171,19 +171,19 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pejibaye": {
     "tendencia": "baja"
   },
   "Pepino": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Piña - grande": {
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Piña - pequeña": {
     "tendencia": "estable"
@@ -228,7 +228,7 @@
     "tendencia": "baja"
   },
   "Tomate tercera Caja plástica (18": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Vainica": {
     "tendencia": "estable"
