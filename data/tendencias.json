@@ -9,7 +9,7 @@
     "tendencia": "sube"
   },
   "Ayote sazón mantequilla": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Ayote tierno": {
     "tendencia": "baja"
@@ -39,13 +39,13 @@
     "tendencia": "baja"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca morada": {
     "tendencia": "baja"
@@ -57,19 +57,19 @@
     "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce segunda Caja": {
     "tendencia": "sube"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Coco": {
     "tendencia": "estable"
@@ -84,10 +84,10 @@
     "tendencia": "estable"
   },
   "Espinaca": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (400 g) Bandeja (400": {
     "tendencia": "estable"
@@ -132,7 +132,7 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Melón Cantaloupe": {
     "tendencia": "sube"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -201,13 +201,13 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Sandía de campo - grande": {
     "tendencia": "sube"
@@ -219,13 +219,13 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tomate primera Caja plástica (18": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Tomate segunda Caja plástica (18": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tomate tercera Caja plástica (18": {
     "tendencia": "sube"
@@ -255,7 +255,7 @@
     "tendencia": "baja"
   },
   "Guanábana injertada": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
@@ -312,7 +312,7 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Granadilla segunda": {
     "tendencia": "baja"
@@ -336,7 +336,7 @@
     "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -426,9 +426,9 @@
     "tendencia": "baja"
   },
   "Melón Caribbean rechazo de exportación": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Melón Mag rechazo de exportación": {
-    "tendencia": "insuficiente"
+    "tendencia": "baja"
   }
 }
