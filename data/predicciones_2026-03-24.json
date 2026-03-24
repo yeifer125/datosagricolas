@@ -1,7 +1,4 @@
 {
-  "Aguacate Hass de Costa Rica": {
-    "prediccion_proxima": 1800.0
-  },
   "Apio verde (mata)": {
     "prediccion_proxima": 1000.0
   },
@@ -17,11 +14,8 @@
   "Banano maduro criollo": {
     "prediccion_proxima": 30.0
   },
-  "Banano maduro rechazo de exportación": {
-    "prediccion_proxima": 2797.7
-  },
-  "Banano verde rechazo de exportación": {
-    "prediccion_proxima": 2797.7
+  "Banano rechazo de exportación (verde y maduro)": {
+    "prediccion_proxima": 3000.0
   },
   "Brócoli": {
     "prediccion_proxima": 570.0
@@ -92,29 +86,29 @@
   "Fresa (400 g) Bandeja (400": {
     "prediccion_proxima": 1211.11
   },
+  "Granadilla primera": {
+    "prediccion_proxima": 178.57
+  },
+  "Granadilla segunda": {
+    "prediccion_proxima": 147.86
+  },
+  "Guanábana injertada": {
+    "prediccion_proxima": 1696.43
+  },
   "Guayaba China/Taiwanesa": {
     "prediccion_proxima": 1425.0
   },
   "Jengibre sazón": {
     "prediccion_proxima": 1000.0
   },
-  "Jocote tronador primera Caja plástica (27": {
-    "prediccion_proxima": 35322.58
-  },
   "Lechuga Americana": {
     "prediccion_proxima": 250.0
-  },
-  "Limón dulce": {
-    "prediccion_proxima": 133.33
   },
   "Limón mandarina": {
     "prediccion_proxima": 152.0
   },
   "Limón mesino": {
     "prediccion_proxima": 150.0
-  },
-  "Mamón chino injertado": {
-    "prediccion_proxima": 790.57
   },
   "Mandarina primera": {
     "prediccion_proxima": 200.0
@@ -125,11 +119,14 @@
   "Manga grande Cavallini Caja plástica (17": {
     "prediccion_proxima": 5700.0
   },
+  "Manga grande Haden Caja plástica (17": {
+    "prediccion_proxima": 3840.0
+  },
+  "Manga grande Keitt Caja plástica (17": {
+    "prediccion_proxima": 4827.59
+  },
   "Manga grande Tommy Caja plástica (17": {
     "prediccion_proxima": 5733.33
-  },
-  "Manzana Anna de Costa Rica": {
-    "prediccion_proxima": 1500.0
   },
   "Maracuyá": {
     "prediccion_proxima": 1200.0
@@ -142,9 +139,6 @@
   },
   "Mora fresca": {
     "prediccion_proxima": 1588.89
-  },
-  "Nance": {
-    "prediccion_proxima": 1800.0
   },
   "Naranja dulce": {
     "prediccion_proxima": 120.0
@@ -163,6 +157,9 @@
   },
   "Papa polilla Malla (45": {
     "prediccion_proxima": 4833.33
+  },
+  "Papa roja Malla (45": {
+    "prediccion_proxima": 17125.0
   },
   "Papa semilla Malla (45": {
     "prediccion_proxima": 14833.33
@@ -191,14 +188,11 @@
   "Pipa pelada": {
     "prediccion_proxima": 300.0
   },
-  "Pitahaya": {
-    "prediccion_proxima": 2513.51
+  "Plátano primera (verde y maduro)": {
+    "prediccion_proxima": 230.0
   },
-  "Plátano maduro": {
-    "prediccion_proxima": 230.11
-  },
-  "Plátano verde": {
-    "prediccion_proxima": 230.11
+  "Plátano segunda (verde y maduro)": {
+    "prediccion_proxima": 200.0
   },
   "Remolacha": {
     "prediccion_proxima": 300.0
@@ -236,76 +230,19 @@
   "Yuca parafinada": {
     "prediccion_proxima": 500.0
   },
-  "Yuplón": {
-    "prediccion_proxima": 150.0
-  },
   "Zanahoria primera Malla (45": {
     "prediccion_proxima": 20266.67
   },
   "Zuquini": {
     "prediccion_proxima": 294.44
   },
-  "Cebolla seca amarilla suelta importada": {
-    "prediccion_proxima": 496.43
-  },
-  "Cebolla seca morada importada": {
-    "prediccion_proxima": 1200.0
-  },
-  "Papa roja Malla (45": {
-    "prediccion_proxima": 17125.0
-  },
-  "Guanábana injertada": {
-    "prediccion_proxima": 1696.43
-  },
-  "Manga grande Keitt Caja plástica (17": {
-    "prediccion_proxima": 4827.59
-  },
-  "Manga pequeña Mora Caja plástica (17": {
-    "prediccion_proxima": 7500.0
-  },
-  "Sandía importada - grande": {
-    "prediccion_proxima": 606.67
-  },
-  "Sandía importada - mediana": {
-    "prediccion_proxima": 506.67
-  },
-  "Jocote tronador seleccionado Caja plástica (27": {
-    "prediccion_proxima": 50666.67
-  },
-  "Granadilla primera": {
-    "prediccion_proxima": 178.57
-  },
-  "Granadilla segunda": {
-    "prediccion_proxima": 147.86
-  },
-  "Jengibre tierno": {
-    "prediccion_proxima": 1000.0
-  },
-  "Banano rechazo de exportación (verde y maduro)": {
-    "prediccion_proxima": 3000.0
-  },
-  "Plátano primera (verde y maduro)": {
-    "prediccion_proxima": 230.0
-  },
-  "Plátano segunda (verde y maduro)": {
-    "prediccion_proxima": 200.0
-  },
-  "Aguacate Hass de Costa Rica - Super Extra": {
-    "prediccion_proxima": 1583.33
-  },
-  "Aguacate Hass de Costa Rica - Supremo": {
-    "prediccion_proxima": 1800.0
-  },
-  "Aguacate Hass de Costa Rica - Extra": {
-    "prediccion_proxima": 1375.0
-  },
-  "Manga grande Haden Caja plástica (17": {
-    "prediccion_proxima": 3840.0
-  },
   "Manga pequeña Irwin Caja plástica (17": {
     "prediccion_proxima": 3785.71
   },
   "Melón Caribbean rechazo de exportación": {
     "prediccion_proxima": 350.0
+  },
+  "Manga pequeña Mora Caja plástica (17": {
+    "prediccion_proxima": 7500.0
   }
 }

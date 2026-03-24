@@ -6,7 +6,7 @@
     "tendencia": "estable"
   },
   "Ayote sazón": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Ayote sazón mantequilla": {
     "tendencia": "sube"
@@ -51,7 +51,7 @@
     "tendencia": "baja"
   },
   "Cebollino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chayote tierno criollo": {
     "tendencia": "sube"
@@ -84,13 +84,13 @@
     "tendencia": "estable"
   },
   "Espinaca": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Fresa (1 Kg) Bandeja (1": {
     "tendencia": "sube"
   },
   "Fresa (400 g) Bandeja (400": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Guayaba China/Taiwanesa": {
     "tendencia": "sube"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -219,7 +219,7 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tomate primera Caja plástica (18": {
     "tendencia": "sube"
@@ -243,7 +243,7 @@
     "tendencia": "sube"
   },
   "Zuquini": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta importada": {
     "tendencia": "insuficiente"
@@ -255,7 +255,7 @@
     "tendencia": "baja"
   },
   "Guanábana injertada": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
@@ -312,7 +312,7 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Granadilla segunda": {
     "tendencia": "baja"
@@ -336,7 +336,7 @@
     "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
