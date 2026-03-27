@@ -3,10 +3,10 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Ayote sazón": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Ayote sazón mantequilla": {
     "tendencia": "sube"
@@ -60,7 +60,7 @@
     "tendencia": "baja"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce primera Caja": {
     "tendencia": "sube"
@@ -81,7 +81,7 @@
     "tendencia": "sube"
   },
   "Elote": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Espinaca": {
     "tendencia": "estable"
@@ -153,7 +153,7 @@
     "tendencia": "estable"
   },
   "Ñampí": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Papa amarilla primera Malla (45": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -255,7 +255,7 @@
     "tendencia": "baja"
   },
   "Guanábana injertada": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -430,5 +430,8 @@
   },
   "Melón Mag rechazo de exportación": {
     "tendencia": "estable"
+  },
+  "Chiverre": {
+    "tendencia": "insuficiente"
   }
 }
