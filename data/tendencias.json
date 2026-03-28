@@ -3,10 +3,10 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Ayote sazón mantequilla": {
     "tendencia": "sube"
@@ -36,7 +36,7 @@
     "tendencia": "sube"
   },
   "Cas": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla burra": {
     "tendencia": "baja"
@@ -153,7 +153,7 @@
     "tendencia": "estable"
   },
   "Ñampí": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Papa amarilla primera Malla (45": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -219,7 +219,7 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tomate primera Caja plástica (18": {
     "tendencia": "sube"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -426,12 +426,12 @@
     "tendencia": "baja"
   },
   "Melón Caribbean rechazo de exportación": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Melón Mag rechazo de exportación": {
     "tendencia": "estable"
   },
   "Chiverre": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   }
 }
