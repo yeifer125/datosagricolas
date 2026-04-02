@@ -6,7 +6,7 @@
     "tendencia": "estable"
   },
   "Ayote sazón": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Ayote sazón mantequilla": {
     "tendencia": "sube"
@@ -39,13 +39,13 @@
     "tendencia": "baja"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca morada": {
     "tendencia": "baja"
@@ -75,13 +75,13 @@
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Culantro castilla Rollo de 10": {
     "tendencia": "sube"
   },
   "Elote": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Espinaca": {
     "tendencia": "estable"
@@ -135,7 +135,7 @@
     "tendencia": "sube"
   },
   "Melón Cantaloupe": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -147,7 +147,7 @@
     "tendencia": "estable"
   },
   "Naranja dulce": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Naranjilla": {
     "tendencia": "estable"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -219,7 +219,7 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tomate primera Caja plástica (18": {
     "tendencia": "sube"
@@ -243,7 +243,7 @@
     "tendencia": "sube"
   },
   "Zuquini": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta importada": {
     "tendencia": "insuficiente"
