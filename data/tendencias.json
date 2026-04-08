@@ -219,7 +219,7 @@
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tomate primera Caja plástica (18": {
     "tendencia": "sube"
@@ -255,7 +255,7 @@
     "tendencia": "baja"
   },
   "Guanábana injertada": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
@@ -429,9 +429,15 @@
     "tendencia": "baja"
   },
   "Melón Mag rechazo de exportación": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chiverre": {
     "tendencia": "estable"
+  },
+  "Plátano verde primera": {
+    "tendencia": "insuficiente"
+  },
+  "Plátano verde segunda": {
+    "tendencia": "insuficiente"
   }
 }
