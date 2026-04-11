@@ -54,7 +54,7 @@
     "tendencia": "sube"
   },
   "Chayote tierno criollo": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chayote tierno quelite": {
     "tendencia": "baja"
@@ -81,7 +81,7 @@
     "tendencia": "sube"
   },
   "Elote": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Espinaca": {
     "tendencia": "estable"
@@ -111,7 +111,7 @@
     "tendencia": "sube"
   },
   "Limón mesino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mamón chino injertado": {
     "tendencia": "baja"
@@ -132,10 +132,10 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Melón Cantaloupe": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -234,7 +234,7 @@
     "tendencia": "baja"
   },
   "Yuca parafinada": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Yuplón": {
     "tendencia": "estable"
@@ -312,7 +312,7 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Granadilla segunda": {
     "tendencia": "baja"
