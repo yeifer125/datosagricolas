@@ -42,10 +42,10 @@
     "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca morada": {
     "tendencia": "baja"
@@ -54,7 +54,7 @@
     "tendencia": "estable"
   },
   "Chayote tierno criollo": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Chayote tierno quelite": {
     "tendencia": "baja"
@@ -102,7 +102,7 @@
     "tendencia": "sube"
   },
   "Lechuga Americana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
@@ -135,7 +135,7 @@
     "tendencia": "estable"
   },
   "Melón Cantaloupe": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mora congelada": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -180,7 +180,7 @@
     "tendencia": "baja"
   },
   "Piña - grande": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Piña - mediana": {
     "tendencia": "estable"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -210,10 +210,10 @@
     "tendencia": "sube"
   },
   "Sandía de campo - grande": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
