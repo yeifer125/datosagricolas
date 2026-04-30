@@ -3,16 +3,16 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "estable"
-  },
-  "Ayote sazón": {
     "tendencia": "baja"
   },
+  "Ayote sazón": {
+    "tendencia": "estable"
+  },
   "Ayote sazón mantequilla": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote tierno": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Banano maduro criollo": {
     "tendencia": "estable"
@@ -24,67 +24,67 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Camote": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Camote Zanahoria": {
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cas": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca morada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebollino": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chayote tierno criollo": {
     "tendencia": "baja"
   },
   "Chayote tierno quelite": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Coco": {
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Culantro castilla Rollo de 10": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Elote": {
     "tendencia": "estable"
   },
   "Espinaca": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (1 Kg) Bandeja (1": {
     "tendencia": "estable"
@@ -93,7 +93,7 @@
     "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Jengibre sazón": {
     "tendencia": "estable"
@@ -102,13 +102,13 @@
     "tendencia": "sube"
   },
   "Lechuga Americana": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
   },
   "Limón mandarina": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Limón mesino": {
     "tendencia": "estable"
@@ -123,25 +123,25 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Manga grande Tommy Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Manzana Anna de Costa Rica": {
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Melón Cantaloupe": {
     "tendencia": "estable"
   },
   "Mora congelada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Mora fresca": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Nance": {
     "tendencia": "estable"
@@ -150,10 +150,10 @@
     "tendencia": "estable"
   },
   "Naranjilla": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Ñampí": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Papa amarilla primera Malla (45": {
     "tendencia": "baja"
@@ -162,7 +162,7 @@
     "tendencia": "baja"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa semilla Malla (45": {
     "tendencia": "baja"
@@ -177,10 +177,10 @@
     "tendencia": "sube"
   },
   "Pepino": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - grande": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - mediana": {
     "tendencia": "estable"
@@ -189,7 +189,7 @@
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -201,37 +201,37 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "estable"
   },
   "Repollo verde": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Sandía de campo - grande": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Tamarindo": {
     "tendencia": "estable"
   },
   "Tiquisque": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tomate primera Caja plástica (18": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Tomate segunda Caja plástica (18": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Tomate tercera Caja plástica (18": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Vainica": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Yuca parafinada": {
     "tendencia": "estable"
@@ -240,10 +240,10 @@
     "tendencia": "estable"
   },
   "Zanahoria primera Malla (45": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Zuquini": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta importada": {
     "tendencia": "insuficiente"
@@ -252,7 +252,7 @@
     "tendencia": "estable"
   },
   "Papa roja Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "insuficiente"
   },
   "Guanábana injertada": {
     "tendencia": "estable"
@@ -261,7 +261,7 @@
     "tendencia": "baja"
   },
   "Manga pequeña Mora Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Sandía importada - grande": {
     "tendencia": "sube"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
@@ -312,16 +312,16 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Granadilla segunda": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Jengibre tierno": {
     "tendencia": "estable"
   },
   "Manga pequeña Irwin Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Super Extra": {
     "tendencia": "baja"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -423,7 +423,7 @@
     "tendencia": "estable"
   },
   "Manga grande Haden Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Melón Caribbean rechazo de exportación": {
     "tendencia": "baja"
@@ -439,5 +439,8 @@
   },
   "Plátano verde segunda": {
     "tendencia": "insuficiente"
+  },
+  "Aguacate Benik": {
+    "tendencia": "baja"
   }
 }
