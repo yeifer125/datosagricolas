@@ -39,7 +39,7 @@
     "tendencia": "estable"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta": {
     "tendencia": "estable"
@@ -93,7 +93,7 @@
     "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Jengibre sazón": {
     "tendencia": "estable"
@@ -108,7 +108,7 @@
     "tendencia": "insuficiente"
   },
   "Limón mandarina": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Limón mesino": {
     "tendencia": "estable"
@@ -132,7 +132,7 @@
     "tendencia": "estable"
   },
   "Maracuyá": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Melón Cantaloupe": {
     "tendencia": "sube"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Pejibaye": {
     "tendencia": "sube"
@@ -180,16 +180,16 @@
     "tendencia": "estable"
   },
   "Piña - grande": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - pequeña": {
     "tendencia": "estable"
   },
   "Pipa pelada": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Pitahaya": {
     "tendencia": "sube"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -213,7 +213,7 @@
     "tendencia": "estable"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -240,7 +240,7 @@
     "tendencia": "estable"
   },
   "Zanahoria primera Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Zuquini": {
     "tendencia": "estable"
@@ -255,13 +255,13 @@
     "tendencia": "insuficiente"
   },
   "Guanábana injertada": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Manga grande Keitt Caja plástica (17": {
     "tendencia": "baja"
   },
   "Manga pequeña Mora Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Sandía importada - grande": {
     "tendencia": "sube"
@@ -273,7 +273,7 @@
     "tendencia": "sube"
   },
   "Aguacate criollo": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica Kilo 1 500,00 1": {
     "tendencia": "insuficiente"
@@ -315,7 +315,7 @@
     "tendencia": "estable"
   },
   "Granadilla segunda": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Jengibre tierno": {
     "tendencia": "estable"
