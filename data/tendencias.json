@@ -3,7 +3,7 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
     "tendencia": "estable"
@@ -27,19 +27,19 @@
     "tendencia": "estable"
   },
   "Camote": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Camote Zanahoria": {
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cas": {
     "tendencia": "sube"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca amarilla suelta": {
     "tendencia": "sube"
@@ -54,10 +54,10 @@
     "tendencia": "sube"
   },
   "Chayote tierno criollo": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chayote tierno quelite": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chile dulce jumbo Caja": {
     "tendencia": "baja"
@@ -153,7 +153,7 @@
     "tendencia": "sube"
   },
   "Ñampí": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Papa amarilla primera Malla (45": {
     "tendencia": "baja"
@@ -162,7 +162,7 @@
     "tendencia": "baja"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papa semilla Malla (45": {
     "tendencia": "baja"
@@ -243,10 +243,10 @@
     "tendencia": "baja"
   },
   "Zuquini": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta importada": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Cebolla seca morada importada": {
     "tendencia": "estable"
