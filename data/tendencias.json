@@ -24,7 +24,7 @@
     "tendencia": "baja"
   },
   "Brócoli": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Camote": {
     "tendencia": "estable"
@@ -33,10 +33,10 @@
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cas": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla burra": {
     "tendencia": "sube"
@@ -48,7 +48,7 @@
     "tendencia": "sube"
   },
   "Cebolla seca morada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebollino": {
     "tendencia": "sube"
@@ -57,7 +57,7 @@
     "tendencia": "estable"
   },
   "Chayote tierno quelite": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
     "tendencia": "baja"
@@ -69,7 +69,7 @@
     "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Coco": {
     "tendencia": "estable"
@@ -111,7 +111,7 @@
     "tendencia": "baja"
   },
   "Limón mesino": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Mamón chino injertado": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Pejibaye": {
     "tendencia": "sube"
@@ -207,13 +207,13 @@
     "tendencia": "baja"
   },
   "Repollo verde": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Sandía de campo - grande": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -231,7 +231,7 @@
     "tendencia": "baja"
   },
   "Vainica": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Yuca parafinada": {
     "tendencia": "estable"
@@ -246,7 +246,7 @@
     "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta importada": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca morada importada": {
     "tendencia": "estable"
@@ -333,7 +333,7 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
