@@ -9,7 +9,7 @@
     "prediccion_proxima": 300.0
   },
   "Ayote sazón mantequilla": {
-    "prediccion_proxima": 808.33
+    "prediccion_proxima": 807.69
   },
   "Ayote tierno": {
     "prediccion_proxima": 400.0
@@ -24,13 +24,13 @@
     "prediccion_proxima": 2797.7
   },
   "Brócoli": {
-    "prediccion_proxima": 595.24
+    "prediccion_proxima": 595.45
   },
   "Camote": {
-    "prediccion_proxima": 595.24
+    "prediccion_proxima": 700.0
   },
   "Camote Zanahoria": {
-    "prediccion_proxima": 1172.73
+    "prediccion_proxima": 1175.0
   },
   "Carambola": {
     "prediccion_proxima": 800.0
@@ -39,19 +39,19 @@
     "prediccion_proxima": 800.0
   },
   "Cebolla seca amarilla burra": {
-    "prediccion_proxima": 957.14
+    "prediccion_proxima": 956.82
   },
   "Cebolla seca amarilla suelta": {
-    "prediccion_proxima": 959.52
+    "prediccion_proxima": 959.09
   },
   "Cebolla seca amarilla trenza": {
-    "prediccion_proxima": 959.52
+    "prediccion_proxima": 959.09
   },
   "Cebolla seca morada": {
-    "prediccion_proxima": 1300.0
+    "prediccion_proxima": 1195.45
   },
   "Cebollino": {
-    "prediccion_proxima": 254.17
+    "prediccion_proxima": 253.85
   },
   "Chayote tierno criollo": {
     "prediccion_proxima": 15000.0
@@ -60,31 +60,31 @@
     "prediccion_proxima": 10000.0
   },
   "Chile dulce jumbo Caja": {
-    "prediccion_proxima": 22761.9
+    "prediccion_proxima": 22818.18
   },
   "Chile dulce primera Caja": {
-    "prediccion_proxima": 20714.29
+    "prediccion_proxima": 20772.73
   },
   "Chile dulce segunda Caja": {
-    "prediccion_proxima": 16619.05
+    "prediccion_proxima": 18772.73
   },
   "Chile dulce tercera Caja": {
-    "prediccion_proxima": 15904.76
+    "prediccion_proxima": 15909.09
   },
   "Coco": {
     "prediccion_proxima": 500.0
   },
   "Coliflor": {
-    "prediccion_proxima": 495.24
+    "prediccion_proxima": 600.0
   },
   "Culantro castilla Rollo de 10": {
-    "prediccion_proxima": 985.71
+    "prediccion_proxima": 986.36
   },
   "Elote": {
     "prediccion_proxima": 120.0
   },
   "Espinaca": {
-    "prediccion_proxima": 254.17
+    "prediccion_proxima": 253.85
   },
   "Fresa (1 Kg) Bandeja (1": {
     "prediccion_proxima": 2000.0
@@ -93,7 +93,7 @@
     "prediccion_proxima": 1000.0
   },
   "Guayaba China/Taiwanesa": {
-    "prediccion_proxima": 981.82
+    "prediccion_proxima": 983.33
   },
   "Jengibre sazón": {
     "prediccion_proxima": 1000.0
@@ -102,13 +102,13 @@
     "prediccion_proxima": 35322.58
   },
   "Lechuga Americana": {
-    "prediccion_proxima": 252.38
+    "prediccion_proxima": 252.27
   },
   "Limón dulce": {
     "prediccion_proxima": 133.33
   },
   "Limón mandarina": {
-    "prediccion_proxima": 118.57
+    "prediccion_proxima": 118.64
   },
   "Limón mesino": {
     "prediccion_proxima": 150.0
@@ -132,16 +132,16 @@
     "prediccion_proxima": 1500.0
   },
   "Maracuyá": {
-    "prediccion_proxima": 983.33
+    "prediccion_proxima": 984.62
   },
   "Melón Cantaloupe": {
-    "prediccion_proxima": 709.52
+    "prediccion_proxima": 604.55
   },
   "Mora congelada": {
-    "prediccion_proxima": 1600.0
+    "prediccion_proxima": 1815.38
   },
   "Mora fresca": {
-    "prediccion_proxima": 1600.0
+    "prediccion_proxima": 1815.38
   },
   "Nance": {
     "prediccion_proxima": 1800.0
@@ -150,25 +150,25 @@
     "prediccion_proxima": 120.0
   },
   "Naranjilla": {
-    "prediccion_proxima": 1527.27
+    "prediccion_proxima": 1308.33
   },
   "Ñampí": {
-    "prediccion_proxima": 1209.52
+    "prediccion_proxima": 1209.09
   },
   "Papa amarilla primera Malla (45": {
-    "prediccion_proxima": 13809.52
+    "prediccion_proxima": 12772.73
   },
   "Papa blanca primera Malla (45": {
-    "prediccion_proxima": 13809.52
+    "prediccion_proxima": 12772.73
   },
   "Papa polilla Malla (45": {
-    "prediccion_proxima": 2916.67
+    "prediccion_proxima": 2923.08
   },
   "Papa semilla Malla (45": {
-    "prediccion_proxima": 7666.67
+    "prediccion_proxima": 7692.31
   },
   "Papa semillón Malla (45": {
-    "prediccion_proxima": 7666.67
+    "prediccion_proxima": 7692.31
   },
   "Papaya híbrida": {
     "prediccion_proxima": 350.0
@@ -177,19 +177,19 @@
     "prediccion_proxima": 1636.36
   },
   "Pepino": {
-    "prediccion_proxima": 407.14
+    "prediccion_proxima": 406.82
   },
   "Piña - grande": {
-    "prediccion_proxima": 1095.24
+    "prediccion_proxima": 990.91
   },
   "Piña - mediana": {
-    "prediccion_proxima": 895.24
+    "prediccion_proxima": 790.91
   },
   "Piña - pequeña": {
-    "prediccion_proxima": 695.24
+    "prediccion_proxima": 590.91
   },
   "Pipa pelada": {
-    "prediccion_proxima": 301.82
+    "prediccion_proxima": 301.67
   },
   "Pitahaya": {
     "prediccion_proxima": 2513.51
@@ -204,13 +204,13 @@
     "prediccion_proxima": 250.0
   },
   "Repollo morado": {
-    "prediccion_proxima": 600.0
+    "prediccion_proxima": 495.45
   },
   "Repollo verde": {
-    "prediccion_proxima": 300.0
+    "prediccion_proxima": 247.73
   },
   "Sandía de campo - grande": {
-    "prediccion_proxima": 500.0
+    "prediccion_proxima": 395.45
   },
   "Sandía de campo - mediana": {
     "prediccion_proxima": 350.0
@@ -219,16 +219,16 @@
     "prediccion_proxima": 2000.0
   },
   "Tiquisque": {
-    "prediccion_proxima": 2533.33
+    "prediccion_proxima": 2009.09
   },
   "Tomate primera Caja plástica (18": {
-    "prediccion_proxima": 8952.38
+    "prediccion_proxima": 9000.0
   },
   "Tomate segunda Caja plástica (18": {
-    "prediccion_proxima": 8000.0
+    "prediccion_proxima": 8045.45
   },
   "Tomate tercera Caja plástica (18": {
-    "prediccion_proxima": 7333.33
+    "prediccion_proxima": 7363.64
   },
   "Vainica": {
     "prediccion_proxima": 600.0
@@ -240,25 +240,25 @@
     "prediccion_proxima": 150.0
   },
   "Zanahoria primera Malla (45": {
-    "prediccion_proxima": 14857.14
+    "prediccion_proxima": 14863.64
   },
   "Zuquini": {
     "prediccion_proxima": 250.0
   },
   "Cebolla seca amarilla suelta importada": {
-    "prediccion_proxima": 980.0
+    "prediccion_proxima": 975.0
   },
   "Cebolla seca morada importada": {
     "prediccion_proxima": 1200.0
   },
   "Papa roja Malla (45": {
-    "prediccion_proxima": 11000.0
+    "prediccion_proxima": 8666.67
   },
   "Guanábana injertada": {
-    "prediccion_proxima": 1590.0
+    "prediccion_proxima": 1485.71
   },
   "Manga grande Keitt Caja plástica (17": {
-    "prediccion_proxima": 3947.37
+    "prediccion_proxima": 3950.0
   },
   "Manga pequeña Mora Caja plástica (17": {
     "prediccion_proxima": 6000.0
@@ -276,7 +276,7 @@
     "prediccion_proxima": 180.0
   },
   "Granadilla segunda": {
-    "prediccion_proxima": 150.0
+    "prediccion_proxima": 160.83
   },
   "Jengibre tierno": {
     "prediccion_proxima": 1000.0
@@ -285,7 +285,7 @@
     "prediccion_proxima": 3000.0
   },
   "Plátano primera (verde y maduro)": {
-    "prediccion_proxima": 179.05
+    "prediccion_proxima": 200.0
   },
   "Plátano segunda (verde y maduro)": {
     "prediccion_proxima": 150.0
@@ -318,6 +318,6 @@
     "prediccion_proxima": 4000.0
   },
   "Aguacate Benik": {
-    "prediccion_proxima": 490.91
+    "prediccion_proxima": 383.33
   }
 }
