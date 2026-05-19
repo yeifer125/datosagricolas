@@ -12,7 +12,7 @@
     "tendencia": "sube"
   },
   "Ayote tierno": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Banano maduro criollo": {
     "tendencia": "estable"
@@ -27,7 +27,7 @@
     "tendencia": "baja"
   },
   "Camote": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Camote Zanahoria": {
     "tendencia": "baja"
@@ -48,7 +48,7 @@
     "tendencia": "sube"
   },
   "Cebolla seca morada": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cebollino": {
     "tendencia": "sube"
@@ -69,7 +69,7 @@
     "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Coco": {
     "tendencia": "estable"
@@ -123,10 +123,10 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Manga grande Tommy Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Manzana Anna de Costa Rica": {
     "tendencia": "estable"
@@ -138,19 +138,19 @@
     "tendencia": "sube"
   },
   "Mora congelada": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Mora fresca": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Nance": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Naranja dulce": {
     "tendencia": "estable"
   },
   "Naranjilla": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ñampí": {
     "tendencia": "sube"
@@ -162,7 +162,7 @@
     "tendencia": "baja"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Papa semilla Malla (45": {
     "tendencia": "baja"
@@ -171,10 +171,10 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Pejibaye": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Pepino": {
     "tendencia": "sube"
@@ -213,7 +213,7 @@
     "tendencia": "baja"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Tamarindo": {
     "tendencia": "estable"
@@ -231,7 +231,7 @@
     "tendencia": "baja"
   },
   "Vainica": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Yuca parafinada": {
     "tendencia": "estable"
@@ -312,10 +312,10 @@
     "tendencia": "insuficiente"
   },
   "Granadilla primera": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Granadilla segunda": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Jengibre tierno": {
     "tendencia": "estable"
@@ -333,7 +333,7 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
