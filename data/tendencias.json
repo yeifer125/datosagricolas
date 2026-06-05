@@ -3,7 +3,7 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
     "tendencia": "estable"
@@ -36,7 +36,7 @@
     "tendencia": "estable"
   },
   "Cas": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Cebolla seca amarilla burra": {
     "tendencia": "sube"
@@ -48,16 +48,16 @@
     "tendencia": "sube"
   },
   "Cebolla seca morada": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebollino": {
     "tendencia": "sube"
   },
   "Chayote tierno criollo": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chayote tierno quelite": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
     "tendencia": "baja"
@@ -78,7 +78,7 @@
     "tendencia": "estable"
   },
   "Culantro castilla Rollo de 10": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Elote": {
     "tendencia": "estable"
@@ -153,13 +153,13 @@
     "tendencia": "sube"
   },
   "Ñampí": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Papa amarilla primera Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa blanca primera Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa polilla Malla (45": {
     "tendencia": "baja"
@@ -171,19 +171,19 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Pejibaye": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pepino": {
     "tendencia": "sube"
   },
   "Piña - grande": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - pequeña": {
     "tendencia": "baja"
@@ -192,7 +192,7 @@
     "tendencia": "sube"
   },
   "Pitahaya": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Plátano maduro": {
     "tendencia": "baja"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Repollo morado": {
     "tendencia": "estable"
@@ -252,13 +252,13 @@
     "tendencia": "estable"
   },
   "Papa roja Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Guanábana injertada": {
     "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Manga pequeña Mora Caja plástica (17": {
     "tendencia": "estable"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -441,6 +441,6 @@
     "tendencia": "insuficiente"
   },
   "Aguacate Benik": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   }
 }
