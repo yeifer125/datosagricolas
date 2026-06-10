@@ -69,13 +69,13 @@
     "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Coco": {
     "tendencia": "estable"
   },
   "Coliflor": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Culantro castilla Rollo de 10": {
     "tendencia": "baja"
@@ -102,7 +102,7 @@
     "tendencia": "sube"
   },
   "Lechuga Americana": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
@@ -153,7 +153,7 @@
     "tendencia": "sube"
   },
   "Ñampí": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Papa amarilla primera Malla (45": {
     "tendencia": "baja"
@@ -171,7 +171,7 @@
     "tendencia": "baja"
   },
   "Papaya híbrida": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pejibaye": {
     "tendencia": "baja"
@@ -180,7 +180,7 @@
     "tendencia": "sube"
   },
   "Piña - grande": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - mediana": {
     "tendencia": "baja"
@@ -204,7 +204,7 @@
     "tendencia": "baja"
   },
   "Repollo morado": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Repollo verde": {
     "tendencia": "sube"
@@ -258,7 +258,7 @@
     "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Manga pequeña Mora Caja plástica (17": {
     "tendencia": "estable"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -441,6 +441,6 @@
     "tendencia": "insuficiente"
   },
   "Aguacate Benik": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   }
 }
