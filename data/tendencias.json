@@ -3,7 +3,7 @@
     "tendencia": "insuficiente"
   },
   "Apio verde (mata)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón": {
     "tendencia": "estable"
@@ -27,7 +27,7 @@
     "tendencia": "sube"
   },
   "Camote": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Camote Zanahoria": {
     "tendencia": "baja"
@@ -81,13 +81,13 @@
     "tendencia": "baja"
   },
   "Elote": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Espinaca": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (400 g) Bandeja (400": {
     "tendencia": "estable"
@@ -99,10 +99,10 @@
     "tendencia": "estable"
   },
   "Jocote tronador primera Caja plástica (27": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Lechuga Americana": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
@@ -156,19 +156,19 @@
     "tendencia": "estable"
   },
   "Papa amarilla primera Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Papa blanca primera Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Papa polilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Papaya híbrida": {
     "tendencia": "estable"
@@ -180,7 +180,7 @@
     "tendencia": "sube"
   },
   "Piña - grande": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - mediana": {
     "tendencia": "baja"
@@ -333,7 +333,7 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Plátano segunda (verde y maduro)": {
     "tendencia": "estable"
