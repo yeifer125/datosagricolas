@@ -27,13 +27,13 @@
     "tendencia": "sube"
   },
   "Camote": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Camote Zanahoria": {
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cas": {
     "tendencia": "estable"
@@ -51,7 +51,7 @@
     "tendencia": "baja"
   },
   "Cebollino": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Chayote tierno criollo": {
     "tendencia": "sube"
@@ -81,19 +81,19 @@
     "tendencia": "baja"
   },
   "Elote": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Espinaca": {
     "tendencia": "sube"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Fresa (400 g) Bandeja (400": {
     "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Jengibre sazón": {
     "tendencia": "estable"
@@ -204,7 +204,7 @@
     "tendencia": "baja"
   },
   "Repollo morado": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Repollo verde": {
     "tendencia": "sube"
@@ -243,7 +243,7 @@
     "tendencia": "baja"
   },
   "Zuquini": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta importada": {
     "tendencia": "sube"
@@ -258,16 +258,16 @@
     "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Manga pequeña Mora Caja plástica (17": {
     "tendencia": "estable"
   },
   "Sandía importada - grande": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Sandía importada - mediana": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Jocote tronador seleccionado Caja plástica (27": {
     "tendencia": "sube"
