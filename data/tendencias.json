@@ -123,10 +123,10 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Manga grande Tommy Caja plástica (17": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Manzana Anna de Costa Rica": {
     "tendencia": "estable"
@@ -177,16 +177,16 @@
     "tendencia": "baja"
   },
   "Pepino": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Piña - grande": {
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - pequeña": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Pipa pelada": {
     "tendencia": "sube"
@@ -336,7 +336,7 @@
     "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -441,6 +441,6 @@
     "tendencia": "insuficiente"
   },
   "Aguacate Benik": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   }
 }
