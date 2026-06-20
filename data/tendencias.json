@@ -33,7 +33,7 @@
     "tendencia": "baja"
   },
   "Carambola": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Cas": {
     "tendencia": "estable"
@@ -87,10 +87,10 @@
     "tendencia": "sube"
   },
   "Fresa (1 Kg) Bandeja (1": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Fresa (400 g) Bandeja (400": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Guayaba China/Taiwanesa": {
     "tendencia": "sube"
@@ -99,7 +99,7 @@
     "tendencia": "estable"
   },
   "Jocote tronador primera Caja plástica (27": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Lechuga Americana": {
     "tendencia": "sube"
@@ -123,10 +123,10 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Manga grande Tommy Caja plástica (17": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Manzana Anna de Costa Rica": {
     "tendencia": "estable"
@@ -147,7 +147,7 @@
     "tendencia": "baja"
   },
   "Naranja dulce": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Naranjilla": {
     "tendencia": "sube"
@@ -165,10 +165,10 @@
     "tendencia": "estable"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papaya híbrida": {
     "tendencia": "estable"
@@ -183,10 +183,10 @@
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Piña - pequeña": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Pipa pelada": {
     "tendencia": "sube"
@@ -204,7 +204,7 @@
     "tendencia": "baja"
   },
   "Repollo morado": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Repollo verde": {
     "tendencia": "sube"
@@ -258,7 +258,7 @@
     "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Manga pequeña Mora Caja plástica (17": {
     "tendencia": "estable"
@@ -270,7 +270,7 @@
     "tendencia": "insuficiente"
   },
   "Jocote tronador seleccionado Caja plástica (27": {
-    "tendencia": "sube"
+    "tendencia": "insuficiente"
   },
   "Aguacate criollo": {
     "tendencia": "estable"
@@ -336,7 +336,7 @@
     "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
