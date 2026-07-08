@@ -6,7 +6,7 @@
     "tendencia": "estable"
   },
   "Ayote sazón": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Ayote sazón mantequilla": {
     "tendencia": "sube"
@@ -15,7 +15,7 @@
     "tendencia": "baja"
   },
   "Banano maduro criollo": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Banano maduro rechazo de exportación": {
     "tendencia": "baja"
@@ -81,7 +81,7 @@
     "tendencia": "baja"
   },
   "Elote": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Espinaca": {
     "tendencia": "sube"
@@ -108,10 +108,10 @@
     "tendencia": "insuficiente"
   },
   "Limón mandarina": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Limón mesino": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Mamón chino injertado": {
     "tendencia": "baja"
@@ -147,7 +147,7 @@
     "tendencia": "baja"
   },
   "Naranja dulce": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Naranjilla": {
     "tendencia": "sube"
@@ -183,10 +183,10 @@
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Piña - pequeña": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Pipa pelada": {
     "tendencia": "sube"
@@ -201,7 +201,7 @@
     "tendencia": "baja"
   },
   "Remolacha": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Repollo morado": {
     "tendencia": "sube"
@@ -210,10 +210,10 @@
     "tendencia": "sube"
   },
   "Sandía de campo - grande": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tamarindo": {
     "tendencia": "baja"
@@ -234,7 +234,7 @@
     "tendencia": "sube"
   },
   "Yuca parafinada": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Yuplón": {
     "tendencia": "estable"
@@ -243,7 +243,7 @@
     "tendencia": "baja"
   },
   "Zuquini": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla suelta importada": {
     "tendencia": "sube"
@@ -264,10 +264,10 @@
     "tendencia": "estable"
   },
   "Sandía importada - grande": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Sandía importada - mediana": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Jocote tronador seleccionado Caja plástica (27": {
     "tendencia": "insuficiente"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -474,7 +474,7 @@
     "tendencia": "insuficiente"
   },
   "Coliflor Unidad 800,00": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Culantro castilla Rollo de 10 rollitos 1 200,00 1": {
     "tendencia": "estable"
@@ -483,13 +483,13 @@
     "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17 kg) 5 000,00 7": {
-    "tendencia": "insuficiente"
+    "tendencia": "baja"
   },
   "Manga grande Keitt Caja plástica (17 kg) 4 000,00 5": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Manga grande Tommy Caja plástica (17 kg) 5 000,00 7": {
-    "tendencia": "insuficiente"
+    "tendencia": "baja"
   },
   "Ñampí Kilo 900,00": {
     "tendencia": "insuficiente"
@@ -534,13 +534,13 @@
     "tendencia": "insuficiente"
   },
   "Brócoli Kilo 800,00": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Chayote tierno criollo Java 28 000,00 33": {
     "tendencia": "insuficiente"
   },
   "Chayote tierno quelite Java 10 000,00 12": {
-    "tendencia": "insuficiente"
+    "tendencia": "baja"
   },
   "Chile dulce jumbo Caja plástica 43 000,00 45": {
     "tendencia": "insuficiente"
@@ -567,7 +567,7 @@
     "tendencia": "insuficiente"
   },
   "Ñampí Kilo": {
-    "tendencia": "insuficiente"
+    "tendencia": "sube"
   },
   "Papa amarilla primera Malla (45 kg) 18 000,00 22": {
     "tendencia": "insuficiente"
@@ -588,6 +588,54 @@
     "tendencia": "insuficiente"
   },
   "Tomate tercera Caja plástica (18 kg) 13 000,00 14": {
+    "tendencia": "insuficiente"
+  },
+  "Papa blanca primera Malla (45 kg) 20 000,00 25": {
+    "tendencia": "insuficiente"
+  },
+  "Apio verde (mata) Mata 1 300,00 1": {
+    "tendencia": "insuficiente"
+  },
+  "Banano rechazo de exportación (verde y maduro) Caja 2 800,00 3": {
+    "tendencia": "insuficiente"
+  },
+  "Chayote tierno criollo Java 28 000,00 30": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce jumbo Caja plástica 40 000,00 42": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce primera Caja plástica 39 000,00 40": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce segunda Caja plástica 38 000,00 39": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce tercera Caja plástica 18 000,00 20": {
+    "tendencia": "insuficiente"
+  },
+  "Culantro castilla Rollo de 10 rollitos 1 000,00 1": {
+    "tendencia": "insuficiente"
+  },
+  "Jengibre sazón Kilo 800,00": {
+    "tendencia": "insuficiente"
+  },
+  "Papa amarilla primera Malla (45 kg) 20 000,00 25": {
+    "tendencia": "insuficiente"
+  },
+  "Repollo morado Kilo 800,00": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate primera Caja plástica (18 kg) 17 000,00 18": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate segunda Caja plástica (18 kg) 16 000,00 17": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate tercera Caja plástica (18 kg) 14 000,00 15": {
+    "tendencia": "insuficiente"
+  },
+  "Zanahoria primera Malla (45 kg) 18 000,00 23": {
     "tendencia": "insuficiente"
   }
 }
