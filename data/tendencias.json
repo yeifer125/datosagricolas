@@ -102,7 +102,7 @@
     "tendencia": "baja"
   },
   "Lechuga Americana": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
@@ -489,7 +489,7 @@
     "tendencia": "estable"
   },
   "Manga grande Tommy Caja plástica (17 kg) 5 000,00 7": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Ñampí Kilo 900,00": {
     "tendencia": "insuficiente"
@@ -555,7 +555,7 @@
     "tendencia": "insuficiente"
   },
   "Coliflor Unidad": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17 kg) 6 000,00 7": {
     "tendencia": "insuficiente"
@@ -570,10 +570,10 @@
     "tendencia": "sube"
   },
   "Papa amarilla primera Malla (45 kg) 18 000,00 22": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Papa blanca primera Malla (45 kg) 18 000,00 22": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Papa semilla Malla (45 kg) 8 000,00 12": {
     "tendencia": "insuficiente"
@@ -600,7 +600,7 @@
     "tendencia": "estable"
   },
   "Chayote tierno criollo Java 28 000,00 30": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Chile dulce jumbo Caja plástica 40 000,00 42": {
     "tendencia": "estable"
@@ -660,6 +660,45 @@
     "tendencia": "insuficiente"
   },
   "Zanahoria primera Malla (45 kg) 20 000,00 23": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce jumbo Caja plástica 44 000,00 45": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce primera Caja plástica 42 000,00 43": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce segunda Caja plástica 41 000,00 43": {
+    "tendencia": "insuficiente"
+  },
+  "Chile dulce tercera Caja plástica 23 000,00 25": {
+    "tendencia": "insuficiente"
+  },
+  "Jengibre sazón Kilo 900,00": {
+    "tendencia": "insuficiente"
+  },
+  "Mamón chino injertado Kilo 1 000,00 1": {
+    "tendencia": "insuficiente"
+  },
+  "Manga grande Cavallini Caja plástica (17 kg) 4 000,00 6": {
+    "tendencia": "insuficiente"
+  },
+  "Manga grande Keitt Caja plástica (17 kg) 4 000,00 4": {
+    "tendencia": "insuficiente"
+  },
+  "Ñampí Kilo 800,00": {
+    "tendencia": "insuficiente"
+  },
+  "Piña - mediana Unidad 900,00": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate primera Caja plástica (18 kg) 20 000,00 21": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate segunda Caja plástica (18 kg) 19 000,00 20": {
+    "tendencia": "insuficiente"
+  },
+  "Tomate tercera Caja plástica (18 kg) 17 000,00 18": {
     "tendencia": "insuficiente"
   }
 }
