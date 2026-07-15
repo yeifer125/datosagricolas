@@ -39,13 +39,13 @@
     "prediccion_proxima": 800.0
   },
   "Cebolla seca amarilla burra": {
-    "prediccion_proxima": 850.79
+    "prediccion_proxima": 850.78
   },
   "Cebolla seca amarilla suelta": {
-    "prediccion_proxima": 851.59
+    "prediccion_proxima": 851.56
   },
   "Cebolla seca amarilla trenza": {
-    "prediccion_proxima": 851.59
+    "prediccion_proxima": 851.56
   },
   "Cebolla seca morada": {
     "prediccion_proxima": 1198.21
@@ -102,16 +102,16 @@
     "prediccion_proxima": 43333.33
   },
   "Lechuga Americana": {
-    "prediccion_proxima": 250.79
+    "prediccion_proxima": 250.78
   },
   "Limón dulce": {
     "prediccion_proxima": 133.33
   },
   "Limón mandarina": {
-    "prediccion_proxima": 78.89
+    "prediccion_proxima": 78.91
   },
   "Limón mesino": {
-    "prediccion_proxima": 78.89
+    "prediccion_proxima": 78.91
   },
   "Mamón chino injertado": {
     "prediccion_proxima": 790.57
@@ -135,7 +135,7 @@
     "prediccion_proxima": 993.1
   },
   "Melón Cantaloupe": {
-    "prediccion_proxima": 804.76
+    "prediccion_proxima": 753.91
   },
   "Mora congelada": {
     "prediccion_proxima": 1600.0
@@ -171,22 +171,22 @@
     "prediccion_proxima": 7878.79
   },
   "Papaya híbrida": {
-    "prediccion_proxima": 451.59
+    "prediccion_proxima": 451.56
   },
   "Pejibaye": {
     "prediccion_proxima": 991.67
   },
   "Pepino": {
-    "prediccion_proxima": 351.59
+    "prediccion_proxima": 351.56
   },
   "Piña - grande": {
     "prediccion_proxima": 1200.0
   },
   "Piña - mediana": {
-    "prediccion_proxima": 898.33
+    "prediccion_proxima": 796.72
   },
   "Piña - pequeña": {
-    "prediccion_proxima": 800.0
+    "prediccion_proxima": 596.88
   },
   "Pipa pelada": {
     "prediccion_proxima": 300.71
@@ -201,19 +201,19 @@
     "prediccion_proxima": 230.11
   },
   "Remolacha": {
-    "prediccion_proxima": 199.21
+    "prediccion_proxima": 199.22
   },
   "Repollo morado": {
     "prediccion_proxima": 1007.14
   },
   "Repollo verde": {
-    "prediccion_proxima": 604.76
+    "prediccion_proxima": 553.91
   },
   "Sandía de campo - grande": {
-    "prediccion_proxima": 398.44
+    "prediccion_proxima": 500.0
   },
   "Sandía de campo - mediana": {
-    "prediccion_proxima": 299.22
+    "prediccion_proxima": 350.0
   },
   "Tamarindo": {
     "prediccion_proxima": 1792.86
@@ -234,7 +234,7 @@
     "prediccion_proxima": 803.17
   },
   "Yuca parafinada": {
-    "prediccion_proxima": 398.41
+    "prediccion_proxima": 398.44
   },
   "Yuplón": {
     "prediccion_proxima": 150.0
@@ -246,7 +246,7 @@
     "prediccion_proxima": 506.58
   },
   "Cebolla seca amarilla suelta importada": {
-    "prediccion_proxima": 902.27
+    "prediccion_proxima": 902.22
   },
   "Cebolla seca morada importada": {
     "prediccion_proxima": 1300.0
@@ -285,7 +285,7 @@
     "prediccion_proxima": 3000.0
   },
   "Plátano primera (verde y maduro)": {
-    "prediccion_proxima": 179.68
+    "prediccion_proxima": 179.69
   },
   "Plátano segunda (verde y maduro)": {
     "prediccion_proxima": 150.0
@@ -330,10 +330,10 @@
     "prediccion_proxima": 2.0
   },
   "Manga grande Cavallini Caja plástica (17 kg) 5 000,00 7": {
-    "prediccion_proxima": 6.0
+    "prediccion_proxima": 4.67
   },
   "Manga grande Tommy Caja plástica (17 kg) 5 000,00 7": {
-    "prediccion_proxima": 4.75
+    "prediccion_proxima": 4.8
   },
   "Brócoli Kilo 800,00": {
     "prediccion_proxima": 0.0
@@ -357,7 +357,7 @@
     "prediccion_proxima": 1.0
   },
   "Zanahoria primera Malla (45 kg) 18 000,00 22": {
-    "prediccion_proxima": 20.5
+    "prediccion_proxima": 19.0
   },
   "Banano rechazo de exportación (verde y maduro) Caja 2 800,00 3": {
     "prediccion_proxima": 2.0
@@ -385,5 +385,20 @@
   },
   "Ñampí Kilo 800,00": {
     "prediccion_proxima": 0.0
+  },
+  "Jengibre sazón Kilo 1 000,00 1": {
+    "prediccion_proxima": 1.0
+  },
+  "Apio verde (mata) Mata 1 300,00 1": {
+    "prediccion_proxima": 1.0
+  },
+  "Tomate segunda Caja plástica (18 kg) 16 000,00 17": {
+    "prediccion_proxima": 16.0
+  },
+  "Coliflor Unidad": {
+    "prediccion_proxima": 800.0
+  },
+  "Repollo morado Kilo": {
+    "prediccion_proxima": 800.0
   }
 }
