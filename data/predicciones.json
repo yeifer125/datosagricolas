@@ -12,7 +12,7 @@
     "prediccion_proxima": 803.45
   },
   "Ayote tierno": {
-    "prediccion_proxima": 400.0
+    "prediccion_proxima": 503.12
   },
   "Banano maduro criollo": {
     "prediccion_proxima": 30.0
@@ -27,7 +27,7 @@
     "prediccion_proxima": 1208.93
   },
   "Camote": {
-    "prediccion_proxima": 801.59
+    "prediccion_proxima": 903.12
   },
   "Camote Zanahoria": {
     "prediccion_proxima": 982.14
@@ -39,19 +39,19 @@
     "prediccion_proxima": 800.0
   },
   "Cebolla seca amarilla burra": {
-    "prediccion_proxima": 850.78
+    "prediccion_proxima": 850.77
   },
   "Cebolla seca amarilla suelta": {
-    "prediccion_proxima": 851.56
+    "prediccion_proxima": 851.54
   },
   "Cebolla seca amarilla trenza": {
-    "prediccion_proxima": 851.56
+    "prediccion_proxima": 851.54
   },
   "Cebolla seca morada": {
     "prediccion_proxima": 1198.21
   },
   "Cebollino": {
-    "prediccion_proxima": 251.61
+    "prediccion_proxima": 251.56
   },
   "Chayote tierno criollo": {
     "prediccion_proxima": 30267.86
@@ -84,7 +84,7 @@
     "prediccion_proxima": 120.0
   },
   "Espinaca": {
-    "prediccion_proxima": 251.61
+    "prediccion_proxima": 251.56
   },
   "Fresa (1 Kg) Bandeja (1": {
     "prediccion_proxima": 2310.34
@@ -102,16 +102,16 @@
     "prediccion_proxima": 43333.33
   },
   "Lechuga Americana": {
-    "prediccion_proxima": 250.78
+    "prediccion_proxima": 250.77
   },
   "Limón dulce": {
     "prediccion_proxima": 133.33
   },
   "Limón mandarina": {
-    "prediccion_proxima": 78.91
+    "prediccion_proxima": 78.92
   },
   "Limón mesino": {
-    "prediccion_proxima": 78.91
+    "prediccion_proxima": 78.92
   },
   "Mamón chino injertado": {
     "prediccion_proxima": 790.57
@@ -135,7 +135,7 @@
     "prediccion_proxima": 993.1
   },
   "Melón Cantaloupe": {
-    "prediccion_proxima": 753.91
+    "prediccion_proxima": 804.62
   },
   "Mora congelada": {
     "prediccion_proxima": 1600.0
@@ -171,22 +171,22 @@
     "prediccion_proxima": 7878.79
   },
   "Papaya híbrida": {
-    "prediccion_proxima": 451.56
+    "prediccion_proxima": 451.54
   },
   "Pejibaye": {
     "prediccion_proxima": 991.67
   },
   "Pepino": {
-    "prediccion_proxima": 351.56
+    "prediccion_proxima": 351.54
   },
   "Piña - grande": {
     "prediccion_proxima": 1200.0
   },
   "Piña - mediana": {
-    "prediccion_proxima": 796.72
+    "prediccion_proxima": 898.39
   },
   "Piña - pequeña": {
-    "prediccion_proxima": 596.88
+    "prediccion_proxima": 698.46
   },
   "Pipa pelada": {
     "prediccion_proxima": 300.71
@@ -201,13 +201,13 @@
     "prediccion_proxima": 230.11
   },
   "Remolacha": {
-    "prediccion_proxima": 199.22
+    "prediccion_proxima": 199.23
   },
   "Repollo morado": {
     "prediccion_proxima": 1007.14
   },
   "Repollo verde": {
-    "prediccion_proxima": 553.91
+    "prediccion_proxima": 503.08
   },
   "Sandía de campo - grande": {
     "prediccion_proxima": 500.0
@@ -234,7 +234,7 @@
     "prediccion_proxima": 803.17
   },
   "Yuca parafinada": {
-    "prediccion_proxima": 398.44
+    "prediccion_proxima": 398.46
   },
   "Yuplón": {
     "prediccion_proxima": 150.0
@@ -243,10 +243,10 @@
     "prediccion_proxima": 15964.29
   },
   "Zuquini": {
-    "prediccion_proxima": 506.58
+    "prediccion_proxima": 506.41
   },
   "Cebolla seca amarilla suelta importada": {
-    "prediccion_proxima": 902.22
+    "prediccion_proxima": 851.09
   },
   "Cebolla seca morada importada": {
     "prediccion_proxima": 1300.0
@@ -330,10 +330,10 @@
     "prediccion_proxima": 2.0
   },
   "Manga grande Cavallini Caja plástica (17 kg) 5 000,00 7": {
-    "prediccion_proxima": 4.67
+    "prediccion_proxima": 6.0
   },
   "Manga grande Tommy Caja plástica (17 kg) 5 000,00 7": {
-    "prediccion_proxima": 4.8
+    "prediccion_proxima": 6.0
   },
   "Brócoli Kilo 800,00": {
     "prediccion_proxima": 0.0
@@ -396,9 +396,24 @@
     "prediccion_proxima": 16.0
   },
   "Coliflor Unidad": {
-    "prediccion_proxima": 800.0
+    "prediccion_proxima": 666.67
   },
   "Repollo morado Kilo": {
     "prediccion_proxima": 800.0
+  },
+  "Manga grande Keitt Caja plástica (17 kg) 4 000,00 6": {
+    "prediccion_proxima": 3.5
+  },
+  "Chile dulce segunda Caja plástica 40 000,00 42": {
+    "prediccion_proxima": 41.5
+  },
+  "Cebolla seca morada Kilo 1 100,00 1": {
+    "prediccion_proxima": 1.0
+  },
+  "Chile dulce jumbo Caja plástica 44 000,00 45": {
+    "prediccion_proxima": 44.0
+  },
+  "Brócoli Kilo": {
+    "prediccion_proxima": 650.0
   }
 }
