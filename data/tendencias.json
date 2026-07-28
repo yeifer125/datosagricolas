@@ -48,7 +48,7 @@
     "tendencia": "sube"
   },
   "Cebolla seca morada": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Cebollino": {
     "tendencia": "sube"
@@ -60,13 +60,13 @@
     "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Chile dulce primera Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce segunda Caja": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Chile dulce tercera Caja": {
     "tendencia": "sube"
@@ -102,7 +102,7 @@
     "tendencia": "baja"
   },
   "Lechuga Americana": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Limón dulce": {
     "tendencia": "insuficiente"
@@ -183,7 +183,7 @@
     "tendencia": "estable"
   },
   "Piña - mediana": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Piña - pequeña": {
     "tendencia": "baja"
@@ -213,7 +213,7 @@
     "tendencia": "estable"
   },
   "Sandía de campo - mediana": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Tamarindo": {
     "tendencia": "baja"
@@ -231,7 +231,7 @@
     "tendencia": "baja"
   },
   "Vainica": {
-    "tendencia": "baja"
+    "tendencia": "sube"
   },
   "Yuca parafinada": {
     "tendencia": "baja"
@@ -333,10 +333,10 @@
     "tendencia": "estable"
   },
   "Plátano primera (verde y maduro)": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Plátano segunda (verde y maduro)": {
-    "tendencia": "estable"
+    "tendencia": "sube"
   },
   "Aguacate Hass de Costa Rica - Extra": {
     "tendencia": "baja"
@@ -864,6 +864,9 @@
     "tendencia": "insuficiente"
   },
   "Tomate tercera Caja plástica (18 kg) 22 000,00 23": {
+    "tendencia": "insuficiente"
+  },
+  "Zucchini": {
     "tendencia": "insuficiente"
   }
 }
