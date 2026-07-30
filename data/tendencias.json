@@ -60,7 +60,7 @@
     "tendencia": "sube"
   },
   "Chile dulce jumbo Caja": {
-    "tendencia": "baja"
+    "tendencia": "estable"
   },
   "Chile dulce primera Caja": {
     "tendencia": "baja"
@@ -165,10 +165,10 @@
     "tendencia": "baja"
   },
   "Papa semilla Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papa semillón Malla (45": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Papaya híbrida": {
     "tendencia": "sube"
@@ -867,6 +867,6 @@
     "tendencia": "insuficiente"
   },
   "Zucchini": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   }
 }
