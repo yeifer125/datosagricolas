@@ -39,13 +39,13 @@
     "tendencia": "estable"
   },
   "Cebolla seca amarilla burra": {
-    "tendencia": "estable"
+    "tendencia": "baja"
   },
   "Cebolla seca amarilla suelta": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca amarilla trenza": {
-    "tendencia": "sube"
+    "tendencia": "estable"
   },
   "Cebolla seca morada": {
     "tendencia": "baja"
@@ -93,7 +93,7 @@
     "tendencia": "estable"
   },
   "Guayaba China/Taiwanesa": {
-    "tendencia": "sube"
+    "tendencia": "baja"
   },
   "Jengibre sazón": {
     "tendencia": "estable"
@@ -117,10 +117,10 @@
     "tendencia": "baja"
   },
   "Mandarina primera": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Mandarina segunda": {
-    "tendencia": "insuficiente"
+    "tendencia": "estable"
   },
   "Manga grande Cavallini Caja plástica (17": {
     "tendencia": "sube"
@@ -324,10 +324,10 @@
     "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Super Extra": {
-    "tendencia": "baja"
+    "tendencia": "insuficiente"
   },
   "Aguacate Hass de Costa Rica - Supremo": {
-    "tendencia": "estable"
+    "tendencia": "insuficiente"
   },
   "Banano rechazo de exportación (verde y maduro)": {
     "tendencia": "estable"
@@ -339,7 +339,7 @@
     "tendencia": "estable"
   },
   "Aguacate Hass de Costa Rica - Extra": {
-    "tendencia": "baja"
+    "tendencia": "insuficiente"
   },
   "Aguacate Hass de Chile - Super Extra Caja (10": {
     "tendencia": "estable"
